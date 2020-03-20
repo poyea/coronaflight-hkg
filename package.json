@@ -1,0 +1,34 @@
+{
+  "name": "covid19-flights-to-hkg",
+  "version": "1.0.0",
+  "description": "Reading COVID19 flights information",
+  "main": "index.js",
+  "scripts": {
+    "crawl": "node index.js",
+    "lintfix": "eslint --fix --ext .js,.jsx .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "covid19",
+    "covid-19",
+    "parse",
+    "pdf",
+    "node"
+  ],
+  "author": "poyea",
+  "license": "ISC",
+  "dependencies": {
+    "crawler-request": "^1.2.2",
+    "diff": "^4.0.2",
+    "moment": "^2.24.0",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}

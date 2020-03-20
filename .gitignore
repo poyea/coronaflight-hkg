@@ -107,5 +107,5 @@ dist
 out/dump/*.txt
 out/json/*.json
 !out/dump/latest.txt
-!out/json/latestjson
+!out/json/latest.json
 

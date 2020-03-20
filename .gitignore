@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# dump and output json
+out/dump/*.txt
+out/json/*.json
+!out/dump/latest.txt
+!out/json/latestjson
+

@@ -1,6 +1,7 @@
 const fs = require('fs')
 const moment = require('moment')
 const readInFile = require('../utils/readf')
+const checkArr = require('../utils/checkarr')
 
 const writeDir = './out/json/'
 const readDir = './out/dump/'
@@ -72,7 +73,7 @@ const copyDog = () => {
         }
         const dum = history.find(his => (his.flight === e.flight &&
               his.date === e.date &&
-              his.seats[0] === e.seats[0]
+              checkArr(his.seats, e.seats)
         ))
         if (dum === undefined) ___.push(e)
       })

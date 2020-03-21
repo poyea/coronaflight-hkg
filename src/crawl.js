@@ -20,7 +20,7 @@ const copyCat = async (dog) => {
           .replace(/and\s\s/, '')
           .replace(/, then/g, '')
           .replace(/,/g, '')
-        const $ = moment().format('HHMM-DD-MM-YYYY')
+        const $ = moment().format('HHmm-DD-MM-YYYY')
         console.log(`Working on ${$}`)
         fs.writeFile(`${writeDir}${$}-raw.txt`, r.text, (err) => {
           if (err) throw err
@@ -37,7 +37,6 @@ const copyCat = async (dog) => {
       }
     ).then(
       console.log('=====')
-
     )
   dog()
 }

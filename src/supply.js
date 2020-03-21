@@ -10,8 +10,7 @@ const copyDog = () => {
   fs.readFile(`${readDir}latest.txt`, 'utf8', (err, data) => {
     if (err) throw err
     const flightCodeRegex = /Flight\s(\b([A-Z]\d|[A-Z]{2,3}|\d[A-Z])\d{2,4}\b)/g
-    const dateRegex = /^\d{1,2}[.\/]\d{1,2}[.\/]\d{4}$/
-    const dateWrongRegex = /^\d{1,2}[.\/]\d[.\/]\d{4}$/
+    const dateRegex = /^\d{1,2}[./]\d{1,2}[./]\d{4}$/
     const retFlight = data.match(flightCodeRegex).map(ele => ele.slice(7)).toString()
     const retFlightarr = retFlight.split(',')
     let _ = 0
@@ -20,8 +19,8 @@ const copyDog = () => {
     const gPath = []
     for (let i = 0; i < n; ++i) {
       if (dataArr[i] === retFlightarr[_]) {
-        let p = []
-        let s = []
+        const p = []
+        const s = []
         while (!(dataArr[i + 1][0] <= ':' && dataArr[i + 1][0] >= '0')) {
           p.push(dataArr[++i])
         }
@@ -38,9 +37,9 @@ const copyDog = () => {
           } else { s.push(dataArr[++i]) }
         }
         let d = dataArr[++i].split('/')
-        d[0] = String("0" + d[0]).slice(-2)
-        d[1] = String("0" + d[1]).slice(-2)
-        d = d.join('\/')
+        d[0] = String('0' + d[0]).slice(-2)
+        d[1] = String('0' + d[1]).slice(-2)
+        d = d.join('/')
         const o = {
           flight: retFlightarr[_],
           path: p,

@@ -21,7 +21,7 @@ Go and see your files in `out/dump` for dump and `out/json` for output. Respecti
 -   Fork
 -   Contribute
 
-## Contribute Welcome
+## Contribution Welcome
 
 [File an issue immediately](https://github.com/poyea/coronaflight-hkg/issues) if you find a bug. If you know how to fix it, feel free to [open a pull request](https://github.com/poyea/coronaflight-hkg/pulls). Before commiting, you should
 ```

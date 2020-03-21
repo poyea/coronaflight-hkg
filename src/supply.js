@@ -9,6 +9,7 @@ const copyDog = () => {
   fs.readFile(`${readDir}latest.txt`, 'utf8', (err, data) => {
     if (err) throw err
     const flightCodeRegex = /Flight\s(\b([A-Z]\d|[A-Z]{2,3}|\d[A-Z])\d{2,4}\b)/g
+    const dateRegex = /^\d{1,2}[.\/]\d{1,2}[.\/]\d{4}$/
     const retFlight = data.match(flightCodeRegex).map(ele => ele.slice(7)).toString()
     const retFlightarr = retFlight.split(',')
     let _ = 0
@@ -17,16 +18,17 @@ const copyDog = () => {
     const gPath = []
     for (let i = 0; i < n; ++i) {
       if (dataArr[i] === retFlightarr[_]) {
-        const p = []
-        const s = []
+        let p = []
+        let s = []
         let d = ''
         while (!(dataArr[i + 1][0] <= ':' && dataArr[i + 1][0] >= '0')) {
           p.push(dataArr[++i])
         }
-        while (!moment(dataArr[i + 1], 'D/M/YYYY', true).isValid()) {
+        while (!dataArr[i + 1].match(dateRegex)) {
           if (dataArr[i + 1] === ':') {
             s.push('Unknown') // Unknown
             ++i
+            break
           } else if (dataArr[i + 1] === '999') {
             s.push('CC') // Cabin Crew
             ++i

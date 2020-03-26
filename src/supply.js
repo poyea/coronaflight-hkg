@@ -11,7 +11,7 @@ const copyDog = () => {
     if (err) throw err
     const flightCodeRegex = /Flight\s(\b([A-Z]\d|[A-Z]{2,3}|\d[A-Z])\d{2,4}\b)/g
     const dateRegex = /^\d{1,2}[./]\d{1,2}[./]\d{4}$/
-    const seatsRegex = /\b([A-Z]\d{1,3}|\d{1,3}[A-Z])\b/
+    const seatsRegex = /\b([A-Z]\d{1,3}|\d{1,3}[A-Z]|Row.*)\b/
     const retFlight = data.match(flightCodeRegex).map(ele => ele.slice(7)).toString()
     const retFlightarr = retFlight.split(',')
     let _ = 0

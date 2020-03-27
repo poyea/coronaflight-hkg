@@ -15,6 +15,14 @@ npm run crawl
 
 Go and see your files in `out/dump` for dump and `out/json` for output. Respective latest files are in `latest.*` in the two folders. Have fun and stay safe!
 
+## Cleaning raw
+
+To clean your local raw data and obsolete references,
+
+```
+npm run clean
+```
+
 ## If you like this, please
 
 -   Star
@@ -24,6 +32,7 @@ Go and see your files in `out/dump` for dump and `out/json` for output. Respecti
 ## Contribution Welcome
 
 [File an issue immediately](https://github.com/poyea/coronaflight-hkg/issues) if you find a bug. If you know how to fix it, feel free to [open a pull request](https://github.com/poyea/coronaflight-hkg/pulls). Before commiting, you should
+
 ```
 npm run lintfix
 ```
@@ -34,7 +43,7 @@ As said, data are from [Centre for Health Protection, Hong Kong Government](http
 
 ## Disclaimer
 
-The owner owns the code, but not any entry of the data. Please use the data at your own discretion and always refer to CHP's offical document for fact. 
+The owner owns the code, but not any entry of the data. Please use the data at your own discretion and always refer to CHP's offical document for fact.
 
 ## License
 

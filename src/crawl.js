@@ -20,6 +20,7 @@ const copyCat = async (dog) => {
           .replace(/and\s\s/, '')
           .replace(/, then/g, '')
           .replace(/,/g, '')
+          .replace(/(Row)[\s\r\n]+(\d+)/g, '$1$2')
         const $ = moment().format('HHmm-DD-MM-YYYY')
         console.log(`Working on ${$}`)
         fs.writeFile(`${writeDir}${$}-raw.txt`, r.text, (err) => {

@@ -14,7 +14,7 @@ const copyCat = async (dog) => {
           .replace(/[c,C]lass/gm, '')
           .replace(/[B,b]usiness/gm, '')
           .replace(/[F,f]irst/gm, '')
-          .replace(/Unknown/g, ':')
+          .replace(/[U,u]nknown/g, ':')
           .replace(/[C,c]abin [C,c]rew/g, '999')
           .replace(/\Band/, '')
           .replace(/and\s\s/, '')

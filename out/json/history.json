@@ -2468,12 +2468,9 @@
   },
   "187": {
     "flight": "KA734",
-    "path": [
+    "departure": [
       "Kuala",
-      "Lumpur",
-      "→",
-      "Hong",
-      "Kong"
+      "Lumpur"
     ],
     "seats": [
       "50A"
@@ -2481,1184 +2478,907 @@
     "date": "20/03/2020"
   },
   "188": {
-    "flight": "CX250",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "flight": "CX216",
+    "departure": [
+      "Manchester"
     ],
     "seats": [
-      "17D"
+      "61B"
     ],
-    "date": "22/03/2020"
+    "date": "20/03/2020"
   },
   "189": {
-    "flight": "UO713",
-    "path": [
-      "Bangkok",
-      "→",
-      "Hong",
-      "Kong"
+    "flight": "LH796",
+    "departure": [
+      "Frankfurt"
     ],
     "seats": [
-      "23D"
+      "4G"
     ],
-    "date": "13/03/2020"
+    "date": "20/03/2020"
   },
   "190": {
-    "flight": "CX256",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "38H"
-    ],
-    "date": "15/03/2020"
-  },
-  "191": {
-    "flight": "CX382",
-    "path": [
-      "Zurich",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "65B"
-    ],
-    "date": "15/03/2020"
-  },
-  "192": {
-    "flight": "EK380",
-    "path": [
-      "Dubai",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "9K",
-      "50B"
-    ],
-    "date": "16/03/2020"
-  },
-  "193": {
-    "flight": "CX254",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "25G",
-      "25D"
-    ],
-    "date": "16/03/2020"
-  },
-  "194": {
-    "flight": "CX254",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "25G"
-    ],
-    "date": "16/03/2020"
-  },
-  "195": {
-    "flight": "TG638",
-    "path": [
-      "Bangkok",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "40E"
-    ],
-    "date": "17/03/2020"
-  },
-  "196": {
-    "flight": "CX718",
-    "path": [
-      "Jakarta",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "47D"
-    ],
-    "date": "17/03/2020"
-  },
-  "197": {
-    "flight": "CX250",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "Unknown"
-    ],
-    "date": "18/03/2020"
-  },
-  "198": {
-    "flight": "CX780",
-    "path": [
-      "Surabaya",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "Row39"
-    ],
-    "date": "18/03/2020"
-  },
-  "199": {
-    "flight": "CX845",
-    "path": [
-      "New",
-      "York",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "11D"
-    ],
-    "date": "18/03/2020"
-  },
-  "200": {
-    "flight": "CX698",
-    "path": [
-      "New",
-      "Delhi",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "18A"
-    ],
-    "date": "18/03/2020"
-  },
-  "201": {
-    "flight": "MH78",
-    "path": [
-      "Kuala",
-      "Lumpur",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "5G"
-    ],
-    "date": "18/03/2020"
-  },
-  "202": {
     "flight": "AC007",
-    "path": [
-      "Vancouver",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "29G"
-    ],
-    "date": "20/03/2020"
-  },
-  "203": {
-    "flight": "BR869",
-    "path": [
-      "Taipei",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "Unknown"
-    ],
-    "date": "20/03/2020"
-  },
-  "204": {
-    "flight": "BA027",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "71D"
-    ],
-    "date": "21/03/2020"
-  },
-  "205": {
-    "flight": "BA27",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "76D"
-    ],
-    "date": "22/03/2020"
-  },
-  "206": {
-    "flight": "EK380",
-    "path": [
-      "Dubai",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "70G"
-    ],
-    "date": "22/03/2020"
-  },
-  "207": {
-    "flight": "TG638",
-    "path": [
-      "Bangkok",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "63K"
-    ],
-    "date": "22/03/2020"
-  },
-  "208": {
-    "flight": "CX260",
-    "path": [
-      "Paris",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "43A"
-    ],
-    "date": "23/03/2020"
-  },
-  "209": {
-    "flight": "CX256",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "44F"
-    ],
-    "date": "19/03/2020"
-  },
-  "210": {
-    "flight": "CX256",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "71D"
-    ],
-    "date": "22/03/2020"
-  },
-  "211": {
-    "flight": "CX254",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "Unknown"
-    ],
-    "date": "16/03/2020"
-  },
-  "212": {
-    "flight": "CX382",
-    "path": [
-      "Zurich",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "30G"
-    ],
-    "date": "17/03/2020"
-  },
-  "213": {
-    "flight": "LX138",
-    "path": [
-      "Zurich",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "9B"
-    ],
-    "date": "18/03/2020"
-  },
-  "214": {
-    "flight": "VS206",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "9A"
-    ],
-    "date": "21/03/2020"
-  },
-  "215": {
-    "flight": "BA027",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "66F"
-    ],
-    "date": "22/03/2020"
-  },
-  "216": {
-    "flight": "CX250",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "59A"
-    ],
-    "date": "22/03/2020"
-  },
-  "217": {
-    "flight": "CX252",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "63A"
-    ],
-    "date": "22/03/2020"
-  },
-  "218": {
-    "flight": "CX748",
-    "path": [
-      "Johannesburg",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "32B"
-    ],
-    "date": "23/03/2020"
-  },
-  "219": {
-    "flight": "VS206",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "25H"
-    ],
-    "date": "23/03/2020"
-  },
-  "220": {
-    "flight": "CX104",
-    "path": [
-      "Melbourne",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "Row75/76"
-    ],
-    "date": "24/03/2020"
-  },
-  "221": {
-    "flight": "CX845",
-    "path": [
-      "New",
-      "York",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "33A"
-    ],
-    "date": "25/03/2020"
-  },
-  "222": {
-    "flight": "CX780",
-    "path": [
-      "Surabaya",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "Row39"
-    ],
-    "date": "18/03/2020"
-  },
-  "223": {
-    "flight": "CX252",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "45F"
-    ],
-    "date": "15/03/2020"
-  },
-  "224": {
-    "flight": "AC007",
-    "path": [
-      "Vancouver",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "36C",
-      "36D"
-    ],
-    "date": "15/03/2020"
-  },
-  "225": {
-    "flight": "CX270",
-    "path": [
-      "Amsterdam",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "69K"
-    ],
-    "date": "15/03/2020"
-  },
-  "226": {
-    "flight": "CX829",
-    "path": [
-      "Toronto",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "65J"
-    ],
-    "date": "17/03/2020"
-  },
-  "227": {
-    "flight": "BR891",
-    "path": [
-      "Taiwan",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "Row46"
-    ],
-    "date": "18/03/2020"
-  },
-  "228": {
-    "flight": "CX658",
-    "path": [
-      "Singapore",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "69K"
-    ],
-    "date": "18/03/2020"
-  },
-  "229": {
-    "flight": "CX698",
-    "path": [
-      "New",
-      "Delhi",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "18D"
-    ],
-    "date": "18/03/2020"
-  },
-  "230": {
-    "flight": "SQ856",
-    "path": [
-      "Singapore",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "19D",
-      "34C"
-    ],
-    "date": "18/03/2020"
-  },
-  "231": {
-    "flight": "EK380",
-    "path": [
-      "Dubai",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "6B",
-      "11D",
-      "31C"
-    ],
-    "date": "18/03/2020"
-  },
-  "232": {
-    "flight": "CX254",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "65C"
-    ],
-    "date": "19/03/2020"
-  },
-  "233": {
-    "flight": "CX930",
-    "path": [
-      "Manila",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "71H"
-    ],
-    "date": "19/03/2020"
-  },
-  "234": {
-    "flight": "AC007",
-    "path": [
-      "Vancouver",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Vancouver"
     ],
     "seats": [
       "30H"
     ],
     "date": "20/03/2020"
   },
-  "235": {
-    "flight": "QR818",
-    "path": [
-      "Doha",
-      "→",
-      "Hong",
-      "Kong"
+  "191": {
+    "flight": "LH796",
+    "departure": [
+      "Frankfurt"
     ],
     "seats": [
-      "21D"
+      "33H"
     ],
-    "date": "21/03/2020"
+    "date": "20/03/2020"
   },
-  "236": {
+  "192": {
+    "flight": "CX658",
+    "departure": [
+      "Singapore"
+    ],
+    "seats": [
+      "40D"
+    ],
+    "date": "20/03/2020"
+  },
+  "193": {
+    "flight": "BR869",
+    "departure": [
+      "Taipei"
+    ],
+    "seats": [
+      "47D"
+    ],
+    "date": "20/03/2020"
+  },
+  "194": {
+    "flight": "BR869",
+    "departure": [
+      "Taipei"
+    ],
+    "seats": [
+      "47C"
+    ],
+    "date": "20/03/2020"
+  },
+  "195": {
+    "flight": "CX746",
+    "departure": [
+      "Dubai"
+    ],
+    "seats": [
+      "59A"
+    ],
+    "date": "20/03/2020"
+  },
+  "196": {
+    "flight": "CX930",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "57A"
+    ],
+    "date": "20/03/2020"
+  },
+  "197": {
     "flight": "CX250",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "41H"
     ],
     "date": "20/03/2020"
   },
-  "237": {
+  "198": {
     "flight": "LH796",
-    "path": [
-      "Frankfurt",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Frankfurt"
     ],
     "seats": [
       "40G"
     ],
     "date": "20/03/2020"
   },
-  "238": {
+  "199": {
     "flight": "AC007",
-    "path": [
-      "Vancouver",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Vancouver"
     ],
     "seats": [
       "25C"
     ],
     "date": "20/03/2020"
   },
-  "239": {
+  "200": {
     "flight": "QR818",
-    "path": [
-      "Doha",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Doha"
     ],
     "seats": [
       "36E"
     ],
     "date": "20/03/2020"
   },
-  "240": {
+  "201": {
+    "flight": "HX780",
+    "departure": [
+      "Bangkok"
+    ],
+    "seats": [
+      "56K"
+    ],
+    "date": "20/03/2020"
+  },
+  "202": {
+    "flight": "CX254",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "70C"
+    ],
+    "date": "20/03/2020"
+  },
+  "203": {
+    "flight": "CX238",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "68J"
+    ],
+    "date": "21/03/2020"
+  },
+  "204": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "21F"
+    ],
+    "date": "21/03/2020"
+  },
+  "205": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "21E"
+    ],
+    "date": "21/03/2020"
+  },
+  "206": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "21D"
+    ],
+    "date": "21/03/2020"
+  },
+  "207": {
     "flight": "CX250",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "74E"
+    ],
+    "date": "21/03/2020"
+  },
+  "208": {
+    "flight": "VS206",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "9A"
+    ],
+    "date": "21/03/2020"
+  },
+  "209": {
+    "flight": "CX250",
+    "departure": [
+      "London"
     ],
     "seats": [
       "32K"
     ],
     "date": "21/03/2020"
   },
-  "241": {
+  "210": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "33A"
+    ],
+    "date": "21/03/2020"
+  },
+  "211": {
+    "flight": "CX845",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "45E"
+    ],
+    "date": "21/03/2020"
+  },
+  "212": {
+    "flight": "CX845",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "45F"
+    ],
+    "date": "21/03/2020"
+  },
+  "213": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "43J"
+    ],
+    "date": "21/03/2020"
+  },
+  "214": {
+    "flight": "BA027",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "71D"
+    ],
+    "date": "21/03/2020"
+  },
+  "215": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "71D"
+    ],
+    "date": "22/03/2020"
+  },
+  "216": {
     "flight": "CX250",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "17D"
+    ],
+    "date": "22/03/2020"
+  },
+  "217": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "76D"
+    ],
+    "date": "22/03/2020"
+  },
+  "218": {
+    "flight": "CX216",
+    "departure": [
+      "Manchester"
+    ],
+    "seats": [
+      "61H"
+    ],
+    "date": "22/03/2020"
+  },
+  "219": {
+    "flight": "EK380",
+    "departure": [
+      "Dubai"
+    ],
+    "seats": [
+      "70G"
+    ],
+    "date": "22/03/2020"
+  },
+  "220": {
+    "flight": "TG638",
+    "departure": [
+      "Bangkok"
+    ],
+    "seats": [
+      "63K"
+    ],
+    "date": "22/03/2020"
+  },
+  "221": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "66F"
+    ],
+    "date": "22/03/2020"
+  },
+  "222": {
+    "flight": "CX250",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "59A"
+    ],
+    "date": "22/03/2020"
+  },
+  "223": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "63A"
+    ],
+    "date": "22/03/2020"
+  },
+  "224": {
+    "flight": "CX250",
+    "departure": [
+      "London"
     ],
     "seats": [
       "49K"
     ],
     "date": "22/03/2020"
   },
-  "242": {
-    "flight": "CX156",
-    "path": [
-      "Brisbane",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "20K"
-    ],
-    "date": "23/03/2020"
-  },
-  "243": {
-    "flight": "KL887",
-    "path": [
-      "Amsterdam",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "37H"
-    ],
-    "date": "23/03/2020"
-  },
-  "244": {
-    "flight": "KL887",
-    "path": [
-      "Amsterdam",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "30B"
-    ],
-    "date": "23/03/2020"
-  },
-  "245": {
-    "flight": "LX138",
-    "path": [
-      "Zurich",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "26K"
-    ],
-    "date": "23/03/2020"
-  },
-  "246": {
-    "flight": "CX238",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "47H"
-    ],
-    "date": "23/03/2020"
-  },
-  "247": {
+  "225": {
     "flight": "CX845",
-    "path": [
+    "departure": [
       "New",
-      "York",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "32A"
-    ],
-    "date": "24/03/2020"
-  },
-  "248": {
-    "flight": "SQ860",
-    "path": [
-      "Shanghai",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "22A"
-    ],
-    "date": "24/03/2020"
-  },
-  "249": {
-    "flight": "EK380",
-    "path": [
-      "Dubai",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "68F"
-    ],
-    "date": "25/03/2020"
-  },
-  "250": {
-    "flight": "EK380",
-    "path": [
-      "Dubai",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "63K"
-    ],
-    "date": "25/03/2020"
-  },
-  "251": {
-    "flight": "BA027",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "38D"
-    ],
-    "date": "25/03/2020"
-  },
-  "252": {
-    "flight": "BA27",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "40A"
-    ],
-    "date": "25/03/2020"
-  },
-  "253": {
-    "flight": "CX238",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "67E"
-    ],
-    "date": "25/03/2020"
-  },
-  "254": {
-    "flight": "CX845",
-    "path": [
-      "New",
-      "York",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "43C"
-    ],
-    "date": "25/03/2020"
-  },
-  "255": {
-    "flight": "CX256",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "33F"
-    ],
-    "date": "26/03/2020"
-  },
-  "256": {
-    "flight": "BA027",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "10F"
-    ],
-    "date": "17/03/2020"
-  },
-  "257": {
-    "flight": "VS206",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "22H"
-    ],
-    "date": "18/03/2020"
-  },
-  "258": {
-    "flight": "KL887",
-    "path": [
-      "Amsterdam",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "19K"
-    ],
-    "date": "18/03/2020"
-  },
-  "259": {
-    "flight": "CX252",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "32A"
-    ],
-    "date": "21/03/2020"
-  },
-  "260": {
-    "flight": "CX845",
-    "path": [
-      "New",
-      "York",
-      "→",
-      "Hong",
-      "Kong"
+      "York"
     ],
     "seats": [
       "33F"
     ],
     "date": "22/03/2020"
   },
-  "261": {
+  "226": {
     "flight": "CX845",
-    "path": [
+    "departure": [
       "New",
-      "York",
-      "→",
-      "Hong",
-      "Kong"
+      "York"
     ],
     "seats": [
       "33E"
     ],
     "date": "22/03/2020"
   },
-  "262": {
+  "227": {
+    "flight": "CX250",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "74A"
+    ],
+    "date": "22/03/2020"
+  },
+  "228": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "42H"
+    ],
+    "date": "22/03/2020"
+  },
+  "229": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "63K"
+    ],
+    "date": "22/03/2020"
+  },
+  "230": {
+    "flight": "CX288",
+    "departure": [
+      "Frankfurt"
+    ],
+    "seats": [
+      "32K"
+    ],
+    "date": "22/03/2020"
+  },
+  "231": {
+    "flight": "CX260",
+    "departure": [
+      "Paris"
+    ],
+    "seats": [
+      "43A"
+    ],
+    "date": "23/03/2020"
+  },
+  "232": {
+    "flight": "CX748",
+    "departure": [
+      "Johannesburg"
+    ],
+    "seats": [
+      "32B"
+    ],
+    "date": "23/03/2020"
+  },
+  "233": {
+    "flight": "VS206",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "25H"
+    ],
+    "date": "23/03/2020"
+  },
+  "234": {
+    "flight": "CX156",
+    "departure": [
+      "Brisbane"
+    ],
+    "seats": [
+      "20K"
+    ],
+    "date": "23/03/2020"
+  },
+  "235": {
     "flight": "BA027",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "29C"
     ],
     "date": "23/03/2020"
   },
-  "263": {
+  "236": {
+    "flight": "KL887",
+    "departure": [
+      "Amsterdam"
+    ],
+    "seats": [
+      "37H"
+    ],
+    "date": "23/03/2020"
+  },
+  "237": {
+    "flight": "KL887",
+    "departure": [
+      "Amsterdam"
+    ],
+    "seats": [
+      "30B"
+    ],
+    "date": "23/03/2020"
+  },
+  "238": {
     "flight": "LX138",
-    "path": [
-      "Zurich",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Zurich"
     ],
     "seats": [
       "30K"
     ],
     "date": "23/03/2020"
   },
-  "264": {
+  "239": {
+    "flight": "LX138",
+    "departure": [
+      "Zurich"
+    ],
+    "seats": [
+      "26K"
+    ],
+    "date": "23/03/2020"
+  },
+  "240": {
     "flight": "VS206",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "24K"
     ],
     "date": "23/03/2020"
   },
-  "265": {
+  "241": {
+    "flight": "CX238",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "47H"
+    ],
+    "date": "23/03/2020"
+  },
+  "242": {
     "flight": "CX260",
-    "path": [
-      "Paris",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Paris"
     ],
     "seats": [
       "64K"
     ],
     "date": "23/03/2020"
   },
-  "266": {
+  "243": {
+    "flight": "VS206",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "49A"
+    ],
+    "date": "23/03/2020"
+  },
+  "244": {
+    "flight": "VS206",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "6A"
+    ],
+    "date": "23/03/2020"
+  },
+  "245": {
+    "flight": "CX238",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "Unknown"
+    ],
+    "date": "23/03/2020"
+  },
+  "246": {
     "flight": "EK380",
-    "path": [
-      "Dubai",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Dubai"
+    ],
+    "seats": [
+      "68F"
+    ],
+    "date": "24/03/2020"
+  },
+  "247": {
+    "flight": "EK380",
+    "departure": [
+      "Dubai"
+    ],
+    "seats": [
+      "63K"
+    ],
+    "date": "24/03/2020"
+  },
+  "248": {
+    "flight": "CX104",
+    "departure": [
+      "Melbourne"
+    ],
+    "seats": [
+      "Row75/76"
+    ],
+    "date": "24/03/2020"
+  },
+  "249": {
+    "flight": "CX845",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "32A"
+    ],
+    "date": "24/03/2020"
+  },
+  "250": {
+    "flight": "EK380",
+    "departure": [
+      "Dubai"
     ],
     "seats": [
       "87D"
     ],
     "date": "24/03/2020"
   },
-  "267": {
+  "251": {
     "flight": "BA027",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "Row70"
     ],
     "date": "24/03/2020"
   },
-  "268": {
+  "252": {
     "flight": "CX256",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "60G"
     ],
     "date": "24/03/2020"
   },
-  "269": {
+  "253": {
     "flight": "CX256",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "39H"
     ],
     "date": "24/03/2020"
   },
-  "270": {
+  "254": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "3F"
+    ],
+    "date": "24/03/2020"
+  },
+  "255": {
+    "flight": "CX716",
+    "departure": [
+      "Singapore"
+    ],
+    "seats": [
+      "43E"
+    ],
+    "date": "24/03/2020"
+  },
+  "256": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "Unknown"
+    ],
+    "date": "24/03/2020"
+  },
+  "257": {
+    "flight": "NH1929",
+    "departure": [
+      "Tokyo"
+    ],
+    "seats": [
+      "Unknown"
+    ],
+    "date": "24/03/2020"
+  },
+  "258": {
+    "flight": "EK380",
+    "departure": [
+      "Dubai"
+    ],
+    "seats": [
+      "49B"
+    ],
+    "date": "24/03/2020"
+  },
+  "259": {
+    "flight": "CX716",
+    "departure": [
+      "Singapore"
+    ],
+    "seats": [
+      "Unknown"
+    ],
+    "date": "24/03/2020"
+  },
+  "260": {
+    "flight": "SQ860",
+    "departure": [
+      "Shanghai"
+    ],
+    "seats": [
+      "22A"
+    ],
+    "date": "24/03/2020"
+  },
+  "261": {
+    "flight": "CX893",
+    "departure": [
+      "San",
+      "Francisco"
+    ],
+    "seats": [
+      "41H"
+    ],
+    "date": "24/03/2020"
+  },
+  "262": {
     "flight": "CX930",
-    "path": [
-      "Manila",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "41A"
+    ],
+    "date": "24/03/2020"
+  },
+  "263": {
+    "flight": "CX893",
+    "departure": [
+      "San",
+      "Francisco"
+    ],
+    "seats": [
+      "30E"
+    ],
+    "date": "24/03/2020"
+  },
+  "264": {
+    "flight": "BA027",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "38D"
+    ],
+    "date": "25/03/2020"
+  },
+  "265": {
+    "flight": "CX845",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "33A"
+    ],
+    "date": "25/03/2020"
+  },
+  "266": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "40A"
+    ],
+    "date": "25/03/2020"
+  },
+  "267": {
+    "flight": "CX930",
+    "departure": [
+      "Manila"
     ],
     "seats": [
       "48H"
     ],
     "date": "25/03/2020"
   },
-  "271": {
+  "268": {
+    "flight": "CX238",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "67E"
+    ],
+    "date": "25/03/2020"
+  },
+  "269": {
     "flight": "LX138",
-    "path": [
-      "Zurich",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Zurich"
     ],
     "seats": [
       "42G"
     ],
     "date": "25/03/2020"
   },
-  "272": {
+  "270": {
+    "flight": "CX238",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "43K"
+    ],
+    "date": "25/03/2020"
+  },
+  "271": {
     "flight": "CX252",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "11A"
     ],
     "date": "25/03/2020"
   },
-  "273": {
+  "272": {
     "flight": "QR818",
-    "path": [
-      "Doha",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Doha"
     ],
     "seats": [
       "6J"
     ],
     "date": "25/03/2020"
   },
-  "274": {
+  "273": {
     "flight": "LX138",
-    "path": [
-      "Zurich",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Zurich"
     ],
     "seats": [
       "25G"
     ],
     "date": "25/03/2020"
   },
-  "275": {
-    "flight": "CX283",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+  "274": {
+    "flight": "CX238",
+    "departure": [
+      "London"
     ],
     "seats": [
       "39A"
     ],
     "date": "25/03/2020"
   },
-  "276": {
+  "275": {
     "flight": "CX252",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "34A"
     ],
     "date": "25/03/2020"
   },
+  "276": {
+    "flight": "KL887",
+    "departure": [
+      "Amsterdam"
+    ],
+    "seats": [
+      "16J"
+    ],
+    "date": "25/03/2020"
+  },
   "277": {
     "flight": "KL887",
-    "path": [
-      "Amsterdam",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Amsterdam"
     ],
     "seats": [
       "17J"
@@ -3667,11 +3387,8 @@
   },
   "278": {
     "flight": "BA027",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "20D"
@@ -3679,831 +3396,449 @@
     "date": "25/03/2020"
   },
   "279": {
-    "flight": "CX238",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "39H"
-    ],
-    "date": "25/03/2020"
-  },
-  "280": {
-    "flight": "BA027",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "35J"
-    ],
-    "date": "25/03/2020"
-  },
-  "281": {
-    "flight": "CX238",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "46G"
-    ],
-    "date": "25/03/2020"
-  },
-  "282": {
-    "flight": "CX252",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "69H"
-    ],
-    "date": "25/03/2020"
-  },
-  "283": {
-    "flight": "LX318",
-    "path": [
-      "Zurich",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "39F"
-    ],
-    "date": "25/03/2020"
-  },
-  "284": {
-    "flight": "KL887",
-    "path": [
-      "Amsterdam",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "21E"
-    ],
-    "date": "25/03/2020"
-  },
-  "285": {
-    "flight": "QR818",
-    "path": [
-      "Doha",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "33D"
-    ],
-    "date": "26/03/2020"
-  },
-  "286": {
-    "flight": "CX250",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "64F"
-    ],
-    "date": "26/03/2020"
-  },
-  "287": {
-    "flight": "CX845",
-    "path": [
-      "New",
-      "York",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "59K"
-    ],
-    "date": "26/03/2020"
-  },
-  "288": {
-    "flight": "CX250",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "30F"
-    ],
-    "date": "26/03/2020"
-  },
-  "289": {
-    "flight": "CX881",
-    "path": [
-      "Los",
-      "Angeles",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "25D"
-    ],
-    "date": "17/03/2020"
-  },
-  "290": {
-    "flight": "AC007",
-    "path": [
-      "Vancouver",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "27A",
-      "Unknown"
-    ],
-    "date": "17/03/2020"
-  },
-  "291": {
-    "flight": "CX881",
-    "path": [
-      "Los",
-      "Angeles",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "33C"
-    ],
-    "date": "17/03/2020"
-  },
-  "292": {
-    "flight": "CX696",
-    "path": [
-      "Berlin",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "Unknown"
-    ],
-    "date": "18/03/2020"
-  },
-  "293": {
-    "flight": "CX658",
-    "path": [
-      "Singapore",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "43A"
-    ],
-    "date": "18/03/2020"
-  },
-  "294": {
-    "flight": "SQ856",
-    "path": [
-      "Singapore",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "Unknown"
-    ],
-    "date": "19/03/2020"
-  },
-  "295": {
-    "flight": "CX716",
-    "path": [
-      "Singapore",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "68K"
-    ],
-    "date": "19/03/2020"
-  },
-  "296": {
-    "flight": "HX780",
-    "path": [
-      "Bangkok",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "56K"
-    ],
-    "date": "20/03/2020"
-  },
-  "297": {
-    "flight": "CX252",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "33A"
-    ],
-    "date": "21/03/2020"
-  },
-  "298": {
-    "flight": "BA27",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "66F"
-    ],
-    "date": "22/03/2020"
-  },
-  "299": {
-    "flight": "VS206",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "49A"
-    ],
-    "date": "23/03/2020"
-  },
-  "300": {
-    "flight": "VS206",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "6A"
-    ],
-    "date": "23/03/2020"
-  },
-  "301": {
-    "flight": "EK380",
-    "path": [
-      "Dubai",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "68F"
-    ],
-    "date": "24/03/2020"
-  },
-  "302": {
-    "flight": "EK380",
-    "path": [
-      "Dubai",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "63K"
-    ],
-    "date": "24/03/2020"
-  },
-  "303": {
-    "flight": "QR0818",
-    "path": [
-      "Doha",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "3E"
-    ],
-    "date": "24/03/2020"
-  },
-  "304": {
-    "flight": "CX716",
-    "path": [
-      "Singapore",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "Unknown"
-    ],
-    "date": "24/03/2020"
-  },
-  "305": {
-    "flight": "CX252",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "Unknown"
-    ],
-    "date": "24/03/2020"
-  },
-  "306": {
-    "flight": "CX252",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "33A"
-    ],
-    "date": "24/03/2020"
-  },
-  "307": {
-    "flight": "CX893",
-    "path": [
-      "San",
-      "Francisco",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "41H"
-    ],
-    "date": "24/03/2020"
-  },
-  "308": {
-    "flight": "CX930",
-    "path": [
-      "Manila",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "41A"
-    ],
-    "date": "24/03/2020"
-  },
-  "309": {
-    "flight": "CX893",
-    "path": [
-      "San",
-      "Francisco",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "30E"
-    ],
-    "date": "24/03/2020"
-  },
-  "310": {
-    "flight": "CX238",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "43K"
-    ],
-    "date": "25/03/2020"
-  },
-  "311": {
     "flight": "LX138",
-    "path": [
-      "Zurich",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Zurich"
     ],
     "seats": [
       "12F"
     ],
     "date": "25/03/2020"
   },
-  "312": {
+  "280": {
+    "flight": "CX238",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "39H"
+    ],
+    "date": "25/03/2020"
+  },
+  "281": {
     "flight": "KL887",
-    "path": [
-      "Amsterdam",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Amsterdam"
     ],
     "seats": [
       "24B"
     ],
     "date": "25/03/2020"
   },
-  "313": {
+  "282": {
+    "flight": "BA027",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "35J"
+    ],
+    "date": "25/03/2020"
+  },
+  "283": {
+    "flight": "CX238",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "46G"
+    ],
+    "date": "25/03/2020"
+  },
+  "284": {
     "flight": "CX252",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "69H"
+    ],
+    "date": "25/03/2020"
+  },
+  "285": {
+    "flight": "CX252",
+    "departure": [
+      "London"
     ],
     "seats": [
       "63H"
     ],
     "date": "25/03/2020"
   },
-  "314": {
+  "286": {
+    "flight": "LX318",
+    "departure": [
+      "Zurich"
+    ],
+    "seats": [
+      "39F"
+    ],
+    "date": "25/03/2020"
+  },
+  "287": {
+    "flight": "KL887",
+    "departure": [
+      "Amsterdam"
+    ],
+    "seats": [
+      "21E"
+    ],
+    "date": "25/03/2020"
+  },
+  "288": {
     "flight": "CX206",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "61D"
     ],
     "date": "25/03/2020"
   },
-  "315": {
-    "flight": "MH072",
-    "path": [
+  "289": {
+    "flight": "MH72",
+    "departure": [
       "Kuala",
-      "Lumpur",
-      "→",
-      "Hong",
-      "Kong"
+      "Lumpur"
     ],
     "seats": [
-      "Unknown"
+      "23G"
     ],
     "date": "25/03/2020"
   },
-  "316": {
+  "290": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "12G"
+    ],
+    "date": "25/03/2020"
+  },
+  "291": {
     "flight": "KL887",
-    "path": [
-      "Amsterdam",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Amsterdam"
     ],
     "seats": [
       "41A"
     ],
     "date": "25/03/2020"
   },
-  "317": {
+  "292": {
     "flight": "LX138",
-    "path": [
-      "Zurich",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Zurich"
     ],
     "seats": [
       "31G"
     ],
     "date": "25/03/2020"
   },
-  "318": {
+  "293": {
     "flight": "CX252",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "69D"
     ],
     "date": "25/03/2020"
   },
-  "319": {
+  "294": {
     "flight": "CX845",
-    "path": [
+    "departure": [
       "New",
-      "York",
-      "→",
-      "Hong",
-      "Kong"
+      "York"
+    ],
+    "seats": [
+      "43C"
+    ],
+    "date": "25/03/2020"
+  },
+  "295": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "33D"
+    ],
+    "date": "26/03/2020"
+  },
+  "296": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "33F"
+    ],
+    "date": "26/03/2020"
+  },
+  "297": {
+    "flight": "CX250",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "64F"
+    ],
+    "date": "26/03/2020"
+  },
+  "298": {
+    "flight": "CX845",
+    "departure": [
+      "New",
+      "York"
     ],
     "seats": [
       "59J"
     ],
     "date": "26/03/2020"
   },
-  "320": {
+  "299": {
     "flight": "CX881",
-    "path": [
+    "departure": [
       "Los",
-      "Angeles",
-      "→",
-      "Hong",
-      "Kong"
+      "Angeles"
     ],
     "seats": [
       "1D"
     ],
     "date": "26/03/2020"
   },
-  "321": {
+  "300": {
+    "flight": "CX845",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "59K"
+    ],
+    "date": "26/03/2020"
+  },
+  "301": {
     "flight": "CX250",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "30F"
+    ],
+    "date": "26/03/2020"
+  },
+  "302": {
+    "flight": "CX256",
+    "departure": [
+      "London"
     ],
     "seats": [
       "69H"
     ],
     "date": "26/03/2020"
   },
-  "322": {
+  "303": {
     "flight": "CX845",
-    "path": [
+    "departure": [
       "New",
-      "York",
-      "→",
-      "Hong",
-      "Kong"
+      "York"
     ],
     "seats": [
-      "12K"
+      "12K",
+      "22K"
     ],
     "date": "26/03/2020"
   },
-  "323": {
-    "flight": "BA27",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "12G"
-    ],
-    "date": "26/03/2020"
-  },
-  "324": {
+  "304": {
     "flight": "CX216",
-    "path": [
-      "Manchester",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Manchester"
     ],
     "seats": [
       "62D"
     ],
     "date": "26/03/2020"
   },
-  "325": {
+  "305": {
     "flight": "CX873",
-    "path": [
+    "departure": [
       "San",
-      "Francisco",
-      "→",
-      "Hong",
-      "Kong"
+      "Francisco"
     ],
     "seats": [
       "19A"
     ],
     "date": "26/03/2020"
   },
-  "326": {
+  "306": {
     "flight": "BA027",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "74G"
     ],
     "date": "26/03/2020"
   },
-  "327": {
+  "307": {
     "flight": "CX250",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "42C"
     ],
     "date": "26/03/2020"
   },
-  "328": {
+  "308": {
     "flight": "CX256",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "55C"
     ],
     "date": "26/03/2020"
   },
-  "329": {
+  "309": {
     "flight": "CX256",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "63E"
     ],
     "date": "26/03/2020"
   },
-  "330": {
+  "310": {
     "flight": "CX845",
-    "path": [
+    "departure": [
       "New",
-      "York",
-      "→",
-      "Hong",
-      "Kong"
+      "York"
     ],
     "seats": [
       "64G"
     ],
     "date": "26/03/2020"
   },
-  "331": {
+  "311": {
     "flight": "CX256",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "55A"
     ],
     "date": "26/03/2020"
   },
-  "332": {
-    "flight": "CX250",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+  "312": {
+    "flight": "CX256",
+    "departure": [
+      "London"
     ],
     "seats": [
       "30K"
     ],
     "date": "26/03/2020"
   },
-  "333": {
+  "313": {
+    "flight": "CX250",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "63K"
+    ],
+    "date": "26/03/2020"
+  },
+  "314": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "53F"
+    ],
+    "date": "26/03/2020"
+  },
+  "315": {
     "flight": "BA27",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "10B"
     ],
     "date": "27/03/2020"
   },
-  "334": {
+  "316": {
     "flight": "CX250",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
-      "67B"
+      "67D"
     ],
     "date": "27/03/2020"
   },
-  "335": {
+  "317": {
     "flight": "CX845",
-    "path": [
+    "departure": [
       "New",
-      "York",
-      "→",
-      "Hong",
-      "Kong"
+      "York"
     ],
     "seats": [
       "22K"
     ],
     "date": "27/03/2020"
   },
-  "336": {
+  "318": {
     "flight": "QR818",
-    "path": [
-      "Scotl",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Doha"
     ],
     "seats": [
-      "26K"
+      "28K"
     ],
     "date": "27/03/2020"
   },
-  "337": {
+  "319": {
     "flight": "CX256",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "CC"
     ],
     "date": "27/03/2020"
   },
-  "338": {
+  "320": {
     "flight": "CX250",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "59A"
     ],
     "date": "27/03/2020"
   },
-  "339": {
+  "321": {
     "flight": "BA27",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "10A"
     ],
     "date": "27/03/2020"
   },
-  "340": {
-    "flight": "CX250",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
-    ],
-    "seats": [
-      "63K"
-    ],
-    "date": "27/03/2020"
-  },
-  "341": {
+  "322": {
     "flight": "BA27",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "24J",
@@ -4511,238 +3846,755 @@
     ],
     "date": "27/03/2020"
   },
-  "342": {
+  "323": {
     "flight": "CX256",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "40F"
     ],
     "date": "27/03/2020"
   },
-  "343": {
+  "324": {
     "flight": "BA27",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "58K"
     ],
     "date": "27/03/2020"
   },
-  "344": {
+  "325": {
     "flight": "BA27",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "58J"
     ],
     "date": "27/03/2020"
   },
-  "345": {
+  "326": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "25K"
+    ],
+    "date": "27/03/2020"
+  },
+  "327": {
+    "flight": "CX845",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "59C"
+    ],
+    "date": "27/03/2020"
+  },
+  "328": {
     "flight": "VS206",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "60J"
+    ],
+    "date": "27/03/2020"
+  },
+  "329": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "2K"
+    ],
+    "date": "27/03/2020"
+  },
+  "330": {
+    "flight": "CX865",
+    "departure": [
+      "Vancouver"
+    ],
+    "seats": [
+      "19K"
+    ],
+    "date": "27/03/2020"
+  },
+  "331": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "28J"
+    ],
+    "date": "27/03/2020"
+  },
+  "332": {
+    "flight": "VS206",
+    "departure": [
+      "London"
     ],
     "seats": [
       "21G"
     ],
     "date": "27/03/2020"
   },
-  "346": {
+  "333": {
     "flight": "QR818",
-    "path": [
-      "Doha",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Doha"
     ],
     "seats": [
       "30A"
     ],
     "date": "28/03/2020"
   },
-  "347": {
+  "334": {
     "flight": "CX238",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "54B"
     ],
     "date": "28/03/2020"
   },
-  "348": {
+  "335": {
     "flight": "CX216",
-    "path": [
-      "Manchester",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Manchester"
     ],
     "seats": [
-      "Unknown"
+      "59A"
     ],
     "date": "28/03/2020"
   },
-  "349": {
+  "336": {
     "flight": "BA27",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "62K"
     ],
     "date": "28/03/2020"
   },
-  "350": {
+  "337": {
     "flight": "CX784",
-    "path": [
-      "Bali",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Bali"
     ],
     "seats": [
       "15A"
     ],
     "date": "28/03/2020"
   },
-  "351": {
+  "338": {
     "flight": "CX216",
-    "path": [
-      "Manchester",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Manchester"
     ],
     "seats": [
       "12D"
     ],
     "date": "28/03/2020"
   },
-  "352": {
+  "339": {
     "flight": "HX782",
-    "path": [
-      "Manila",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Manila"
     ],
     "seats": [
       "32C"
     ],
     "date": "28/03/2020"
   },
-  "353": {
+  "340": {
     "flight": "CX256",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "65K"
     ],
     "date": "28/03/2020"
   },
-  "354": {
+  "341": {
     "flight": "VS206",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "58C"
     ],
     "date": "28/03/2020"
   },
-  "355": {
+  "342": {
     "flight": "CX857",
-    "path": [
-      "Seattle",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Seattle"
     ],
     "seats": [
       "44G"
     ],
     "date": "28/03/2020"
   },
-  "356": {
+  "343": {
     "flight": "VS206",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "6A"
     ],
     "date": "28/03/2020"
   },
-  "357": {
+  "344": {
     "flight": "BA27",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "71G"
     ],
     "date": "28/03/2020"
   },
-  "358": {
+  "345": {
+    "flight": "CX238",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "71K"
+    ],
+    "date": "28/03/2020"
+  },
+  "346": {
+    "flight": "CX216",
+    "departure": [
+      "Manchester"
+    ],
+    "seats": [
+      "61J"
+    ],
+    "date": "28/03/2020"
+  },
+  "347": {
+    "flight": "CX250",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "20G"
+    ],
+    "date": "28/03/2020"
+  },
+  "348": {
     "flight": "GA876",
-    "path": [
-      "Jarkata",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "Jakarta"
     ],
     "seats": [
       "43C"
     ],
     "date": "29/03/2020"
   },
-  "359": {
+  "349": {
     "flight": "CX238",
-    "path": [
-      "London",
-      "→",
-      "Hong",
-      "Kong"
+    "departure": [
+      "London"
     ],
     "seats": [
       "52K"
     ],
     "date": "29/03/2020"
+  },
+  "350": {
+    "flight": "CX260",
+    "departure": [
+      "Paris"
+    ],
+    "seats": [
+      "19D"
+    ],
+    "date": "29/03/2020"
+  },
+  "351": {
+    "flight": "VS206",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "46J"
+    ],
+    "date": "29/03/2020"
+  },
+  "352": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "39G"
+    ],
+    "date": "29/03/2020"
+  },
+  "353": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "65A"
+    ],
+    "date": "29/03/2020"
+  },
+  "354": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "69A"
+    ],
+    "date": "29/03/2020"
+  },
+  "355": {
+    "flight": "CX238",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "39G"
+    ],
+    "date": "29/03/2020"
+  },
+  "356": {
+    "flight": "CX238",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "66D"
+    ],
+    "date": "29/03/2020"
+  },
+  "357": {
+    "flight": "CX260",
+    "departure": [
+      "Paris"
+    ],
+    "seats": [
+      "19G"
+    ],
+    "date": "29/03/2020"
+  },
+  "358": {
+    "flight": "CX881",
+    "departure": [
+      "Los",
+      "Angeles"
+    ],
+    "seats": [
+      "63G"
+    ],
+    "date": "29/03/2020"
+  },
+  "359": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "15B"
+    ],
+    "date": "29/03/2020"
+  },
+  "360": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "40A"
+    ],
+    "date": "29/03/2020"
+  },
+  "361": {
+    "flight": "CX260",
+    "departure": [
+      "France"
+    ],
+    "seats": [
+      "62K"
+    ],
+    "date": "29/03/2020"
+  },
+  "362": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "CC"
+    ],
+    "date": "29/03/2020"
+  },
+  "363": {
+    "flight": "CX238",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "G61"
+    ],
+    "date": "29/03/2020"
+  },
+  "364": {
+    "flight": "CX831",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "62C"
+    ],
+    "date": "30/03/2020"
+  },
+  "365": {
+    "flight": "CX811",
+    "departure": [
+      "Boston"
+    ],
+    "seats": [
+      "11D"
+    ],
+    "date": "30/03/2020"
+  },
+  "366": {
+    "flight": "CX851",
+    "departure": [
+      "San",
+      "Francisco"
+    ],
+    "seats": [
+      "44J"
+    ],
+    "date": "30/03/2020"
+  },
+  "367": {
+    "flight": "CX831",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "11K"
+    ],
+    "date": "30/03/2020"
+  },
+  "368": {
+    "flight": "CX831",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "39G"
+    ],
+    "date": "30/03/2020"
+  },
+  "369": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "50D"
+    ],
+    "date": "30/03/2020"
+  },
+  "370": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "19A"
+    ],
+    "date": "30/03/2020"
+  },
+  "371": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "32D"
+    ],
+    "date": "30/03/2020"
+  },
+  "372": {
+    "flight": "CX831",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "62G"
+    ],
+    "date": "30/03/2020"
+  },
+  "373": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "33H"
+    ],
+    "date": "30/03/2020"
+  },
+  "374": {
+    "flight": "CX831",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "Unknown"
+    ],
+    "date": "30/03/2020"
+  },
+  "375": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "56B"
+    ],
+    "date": "30/03/2020"
+  },
+  "376": {
+    "flight": "CX881",
+    "departure": [
+      "Los",
+      "Angeles"
+    ],
+    "seats": [
+      "12K"
+    ],
+    "date": "30/03/2020"
+  },
+  "377": {
+    "flight": "CX831",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "22K"
+    ],
+    "date": "30/03/2020"
+  },
+  "378": {
+    "flight": "GA876",
+    "departure": [
+      "Jakarta"
+    ],
+    "seats": [
+      "32H"
+    ],
+    "date": "31/03/2020"
+  },
+  "379": {
+    "flight": "CX216",
+    "departure": [
+      "Manchester"
+    ],
+    "seats": [
+      "70K"
+    ],
+    "date": "31/03/2020"
+  },
+  "380": {
+    "flight": "VS206",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "62J"
+    ],
+    "date": "31/03/2020"
+  },
+  "381": {
+    "flight": "VS206",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "62H"
+    ],
+    "date": "31/03/2020"
+  },
+  "382": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "43A"
+    ],
+    "date": "31/03/2020"
+  },
+  "383": {
+    "flight": "CX216",
+    "departure": [
+      "Manchester"
+    ],
+    "seats": [
+      "44A"
+    ],
+    "date": "31/03/2020"
+  },
+  "384": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "22D"
+    ],
+    "date": "31/03/2020"
+  },
+  "385": {
+    "flight": "VS206",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "61J"
+    ],
+    "date": "31/03/2020"
+  },
+  "386": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "39F"
+    ],
+    "date": "31/03/2020"
+  },
+  "387": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "12K"
+    ],
+    "date": "31/03/2020"
+  },
+  "388": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "21D"
+    ],
+    "date": "31/03/2020"
+  },
+  "389": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "47A"
+    ],
+    "date": "31/03/2020"
+  },
+  "390": {
+    "flight": "KL887",
+    "departure": [
+      "Amsterdam"
+    ],
+    "seats": [
+      "42A"
+    ],
+    "date": "31/03/2020"
+  },
+  "391": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "67C"
+    ],
+    "date": "31/03/2020"
+  },
+  "392": {
+    "flight": "CX906",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "65A"
+    ],
+    "date": "01/04/2020"
+  },
+  "393": {
+    "flight": "CX865",
+    "departure": [
+      "Vancouver"
+    ],
+    "seats": [
+      "31H"
+    ],
+    "date": "01/04/2020"
+  },
+  "394": {
+    "flight": "CX883",
+    "departure": [
+      "Los",
+      "Angeles"
+    ],
+    "seats": [
+      "30F"
+    ],
+    "date": "02/04/2020"
+  },
+  "395": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "32K"
+    ],
+    "date": "02/04/2020"
+  },
+  "396": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "40D"
+    ],
+    "date": "02/04/2020"
   }
 }

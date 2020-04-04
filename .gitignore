@@ -109,4 +109,3 @@ out/json/*.json
 !out/dump/latest.txt
 !out/json/latest.json
 !out/json/history.json
-

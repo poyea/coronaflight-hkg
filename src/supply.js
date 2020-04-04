@@ -9,11 +9,10 @@ const readDir = './out/dump/'
 const copyDog = () => {
   fs.readFile(`${readDir}latest.txt`, 'utf8', (err, data) => {
     if (err) throw err
-    const flightCodeRegex = /Flight\s(\b([A-Z]\d|[A-Z]{2,3}|\d[A-Z])\d{2,4}\b)/g
+    const flightCodeRegex = /(\b([A-Z]\d|[A-Z]{2,3}|\d[A-Z])\d{2,4}\b)/g
     const dateRegex = /^\d{1,2}[./]\d{1,2}[./]\d{4}$/
     const seatsRegex = /\b([A-Z]\d{1,3}|\d{1,3}[A-Z]|Row.*|Row)\b/
-    const retFlight = data.match(flightCodeRegex).map(ele => ele.slice(7)).toString()
-    const retFlightarr = retFlight.split(',')
+    const retFlightarr = data.match(flightCodeRegex)
     let _ = 0
     const dataArr = data.replace(/\s+/g, ' ').split(' ')
     const n = dataArr.length
@@ -30,7 +29,7 @@ const copyDog = () => {
             s.push('Unknown') // Unknown
             ++i
             break
-          } else if (dataArr[i + 1] === '999') {
+          } else if (dataArr[i + 1].match(/[(]?999[)]?/)) {
             s.push('CC') // Cabin Crew
             ++i
           } else if (dataArr[i + 1] === 'and') {
@@ -43,7 +42,7 @@ const copyDog = () => {
         d = d.join('/')
         const o = {
           flight: retFlightarr[_],
-          path: p,
+          departure: p,
           seats: s,
           date: d
         }
@@ -83,7 +82,7 @@ const copyDog = () => {
       const writingHistory = JSON.stringify({ ...___ }, null, 2)
       fs.writeFile(`${writeDir}history.json`, writingHistory, (ehisw) => {
         if (ehisw) throw ehisw
-        console.log(`Update checked! Written to ${writeDir}history.json!`)
+        console.log(`Update checked! Written to ${writeDir}new-history.json!`)
       })
     }).catch(error => {
       console.log('Unexpected error: ' + error)

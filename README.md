@@ -23,6 +23,10 @@ To clean your local raw data and obsolete references,
 npm run clean
 ```
 
+## Document format
+
+In the output, there are two different types of geographical data. Since CHP used path to indicate the departure cities before, some of the data in history contains only path. When they switched to the current approach, only departure cities are recorded. Readers should assume that the destination city is always Hong Kong for those entries with `departure`.
+
 ## If you like this, please
 
 -   Star

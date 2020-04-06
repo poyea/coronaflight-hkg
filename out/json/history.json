@@ -4596,5 +4596,496 @@
       "40D"
     ],
     "date": "02/04/2020"
+  },
+  "397": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "29C"
+    ],
+    "date": "23/03/2020"
+  },
+  "398": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "Row70"
+    ],
+    "date": "24/03/2020"
+  },
+  "399": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "38D"
+    ],
+    "date": "25/03/2020"
+  },
+  "400": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "20D"
+    ],
+    "date": "25/03/2020"
+  },
+  "401": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "35J"
+    ],
+    "date": "25/03/2020"
+  },
+  "402": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "36J"
+    ],
+    "date": "25/03/2020"
+  },
+  "403": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "74G"
+    ],
+    "date": "26/03/2020"
+  },
+  "404": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "52A"
+    ],
+    "date": "26/03/2020"
+  },
+  "405": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "52C"
+    ],
+    "date": "26/03/2020"
+  },
+  "406": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "67D"
+    ],
+    "date": "26/03/2020"
+  },
+  "407": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "67E"
+    ],
+    "date": "26/03/2020"
+  },
+  "408": {
+    "flight": "CX250",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "43E"
+    ],
+    "date": "27/03/2020"
+  },
+  "409": {
+    "flight": "CX250",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "20D"
+    ],
+    "date": "28/03/2020"
+  },
+  "410": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "71G"
+    ],
+    "date": "28/03/2020"
+  },
+  "411": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "73K"
+    ],
+    "date": "28/03/2020"
+  },
+  "412": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "72J/72K"
+    ],
+    "date": "28/03/2020"
+  },
+  "413": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "26G"
+    ],
+    "date": "28/03/2020"
+  },
+  "414": {
+    "flight": "CX216",
+    "departure": [
+      "Manchester"
+    ],
+    "seats": [
+      "47J"
+    ],
+    "date": "28/03/2020"
+  },
+  "415": {
+    "flight": "CX238",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "60A"
+    ],
+    "date": "28/03/2020"
+  },
+  "416": {
+    "flight": "CX238",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "60B"
+    ],
+    "date": "28/03/2020"
+  },
+  "417": {
+    "flight": "CX238",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "61G"
+    ],
+    "date": "29/03/2020"
+  },
+  "418": {
+    "flight": "CX811",
+    "departure": [
+      "Boston"
+    ],
+    "seats": [
+      "31D"
+    ],
+    "date": "30/03/2020"
+  },
+  "419": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "50B"
+    ],
+    "date": "31/03/2020"
+  },
+  "420": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "50A"
+    ],
+    "date": "31/03/2020"
+  },
+  "421": {
+    "flight": "CX256",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "43A"
+    ],
+    "date": "31/03/2020"
+  },
+  "422": {
+    "flight": "CX382",
+    "departure": [
+      "Zurich"
+    ],
+    "seats": [
+      "69D"
+    ],
+    "date": "31/03/2020"
+  },
+  "423": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "Unknown"
+    ],
+    "date": "01/04/2020"
+  },
+  "424": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "37E"
+    ],
+    "date": "01/04/2020"
+  },
+  "425": {
+    "flight": "CX865",
+    "departure": [
+      "Vancouver"
+    ],
+    "seats": [
+      "40H"
+    ],
+    "date": "01/04/2020"
+  },
+  "426": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "28K"
+    ],
+    "date": "01/04/2020"
+  },
+  "427": {
+    "flight": "VS206",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "24A"
+    ],
+    "date": "02/04/2020"
+  },
+  "428": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "47A"
+    ],
+    "date": "02/04/2020"
+  },
+  "429": {
+    "flight": "BA29",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "Unknown"
+    ],
+    "date": "02/04/2020"
+  },
+  "430": {
+    "flight": "CX883",
+    "departure": [
+      "Los",
+      "Angeles"
+    ],
+    "seats": [
+      "65B"
+    ],
+    "date": "02/04/2020"
+  },
+  "431": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "11F"
+    ],
+    "date": "02/04/2020"
+  },
+  "432": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "43K"
+    ],
+    "date": "02/04/2020"
+  },
+  "433": {
+    "flight": "CX521",
+    "departure": [
+      "Tokyo"
+    ],
+    "seats": [
+      "Unknown"
+    ],
+    "date": "02/04/2020"
+  },
+  "434": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "50A"
+    ],
+    "date": "02/04/2020"
+  },
+  "435": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "48A"
+    ],
+    "date": "03/04/2020"
+  },
+  "436": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "11G"
+    ],
+    "date": "03/04/2020"
+  },
+  "437": {
+    "flight": "KL887",
+    "departure": [
+      "Amsterdam"
+    ],
+    "seats": [
+      "33A"
+    ],
+    "date": "03/04/2020"
+  },
+  "438": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "1K"
+    ],
+    "date": "04/04/2020"
+  },
+  "439": {
+    "flight": "CX216",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "32D"
+    ],
+    "date": "04/04/2020"
+  },
+  "440": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "62H"
+    ],
+    "date": "04/04/2020"
+  },
+  "441": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "39A"
+    ],
+    "date": "05/04/2020"
+  },
+  "442": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "39B"
+    ],
+    "date": "05/04/2020"
+  },
+  "443": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "37J"
+    ],
+    "date": "05/04/2020"
+  },
+  "444": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "43H"
+    ],
+    "date": "05/04/2020"
+  },
+  "445": {
+    "flight": "BA27",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "43J"
+    ],
+    "date": "05/04/2020"
   }
 }

@@ -32,6 +32,9 @@ const copyDog = () => {
           } else if (dataArr[i + 1].match(/[(]?999[)]?/)) {
             s.push('CC') // Cabin Crew
             ++i
+          } else if (dataArr[i + 1].match(/[(]?888[)]?/)) {
+            s.push('Pilot') // Pilot
+            ++i
           } else if (dataArr[i + 1] === 'and') {
             ++i
           } else { s.push(dataArr[++i]) }

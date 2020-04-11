@@ -22,7 +22,8 @@
     "crawler-request": "^1.2.2",
     "diff": "^4.0.2",
     "moment": "^2.24.0",
-    "pdf-parse": "^1.1.1"
+    "pdf-parse": "^1.1.1",
+    "minimist": ">=0.2.1"
   },
   "devDependencies": {
     "eslint": "^6.8.0",

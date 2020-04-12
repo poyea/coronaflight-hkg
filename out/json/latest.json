@@ -561,9 +561,7 @@
   "52": {
     "flight": "CX906",
     "departure": [
-      "M",
-      "a",
-      "nila"
+      "Manila"
     ],
     "seats": [
       "65A"
@@ -1021,8 +1019,7 @@
   "96": {
     "flight": "KA734",
     "departure": [
-      "K",
-      "uala",
+      "Kuala",
       "Lumpur"
     ],
     "seats": [
@@ -1124,9 +1121,7 @@
   "106": {
     "flight": "CX906",
     "departure": [
-      "M",
-      "a",
-      "nila"
+      "Manila"
     ],
     "seats": [
       "42A"

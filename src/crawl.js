@@ -20,6 +20,8 @@ const copyCat = async (dog) => {
           .replace(/(P[\s\r\n]+ilo[\s\r\n]+t)/, 'Pilot')
           .replace(/[P,p]ilot/g, '888')
           .replace(/\bTok\syo\b/g, 'Tokyo')
+          .replace(/(M[\s\r\n]+a[\s\r\n]+nila)/g, 'Manila')
+          .replace(/(K[\s\r\n]+uala)/g, 'Kuala')
           .replace(/\Band/, '')
           .replace(/and\s\s/, '')
           .replace(/, then/g, '')

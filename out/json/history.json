@@ -5493,5 +5493,86 @@
       "21A"
     ],
     "date": "10/04/2020"
+  },
+  "486": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "44J"
+    ],
+    "date": "29/03/2020"
+  },
+  "487": {
+    "flight": "X811",
+    "departure": [
+      "Boston"
+    ],
+    "seats": [
+      "11D"
+    ],
+    "date": "30/03/2020"
+  },
+  "488": {
+    "flight": "X811",
+    "departure": [
+      "Boston"
+    ],
+    "seats": [
+      "31D"
+    ],
+    "date": "30/03/2020"
+  },
+  "489": {
+    "flight": "RH9490",
+    "departure": [
+      "Almaty"
+    ],
+    "seats": [
+      "Pilot"
+    ],
+    "date": "03/04/2020"
+  },
+  "490": {
+    "flight": "CX841",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "2A"
+    ],
+    "date": "04/04/2020"
+  },
+  "491": {
+    "flight": "GA876",
+    "departure": [
+      "Jakarta"
+    ],
+    "seats": [
+      "6K"
+    ],
+    "date": "08/04/2020"
+  },
+  "492": {
+    "flight": "CX521",
+    "departure": [
+      "Tokyo"
+    ],
+    "seats": [
+      "15A"
+    ],
+    "date": "09/04/2020"
+  },
+  "493": {
+    "flight": "CX521",
+    "departure": [
+      "Tokyo"
+    ],
+    "seats": [
+      "65D"
+    ],
+    "date": "10/04/2020"
   }
 }

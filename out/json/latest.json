@@ -1,235 +1,5 @@
 {
   "0": {
-    "flight": "QR818",
-    "departure": [
-      "Doha"
-    ],
-    "seats": [
-      "30A"
-    ],
-    "date": "28/03/2020"
-  },
-  "1": {
-    "flight": "CX238",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "54B"
-    ],
-    "date": "28/03/2020"
-  },
-  "2": {
-    "flight": "CX216",
-    "departure": [
-      "Manchester"
-    ],
-    "seats": [
-      "59A"
-    ],
-    "date": "28/03/2020"
-  },
-  "3": {
-    "flight": "BA27",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "62K"
-    ],
-    "date": "28/03/2020"
-  },
-  "4": {
-    "flight": "CX784",
-    "departure": [
-      "Bali"
-    ],
-    "seats": [
-      "15A"
-    ],
-    "date": "28/03/2020"
-  },
-  "5": {
-    "flight": "CX250",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "20D"
-    ],
-    "date": "28/03/2020"
-  },
-  "6": {
-    "flight": "CX216",
-    "departure": [
-      "Manchester"
-    ],
-    "seats": [
-      "12D"
-    ],
-    "date": "28/03/2020"
-  },
-  "7": {
-    "flight": "HX782",
-    "departure": [
-      "Manila"
-    ],
-    "seats": [
-      "32C"
-    ],
-    "date": "28/03/2020"
-  },
-  "8": {
-    "flight": "CX256",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "65K"
-    ],
-    "date": "28/03/2020"
-  },
-  "9": {
-    "flight": "VS206",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "58C"
-    ],
-    "date": "28/03/2020"
-  },
-  "10": {
-    "flight": "CX857",
-    "departure": [
-      "Seattle"
-    ],
-    "seats": [
-      "44G"
-    ],
-    "date": "28/03/2020"
-  },
-  "11": {
-    "flight": "VS206",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "6A"
-    ],
-    "date": "28/03/2020"
-  },
-  "12": {
-    "flight": "BA27",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "71G"
-    ],
-    "date": "28/03/2020"
-  },
-  "13": {
-    "flight": "CX256",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "71G"
-    ],
-    "date": "28/03/2020"
-  },
-  "14": {
-    "flight": "CX238",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "71K"
-    ],
-    "date": "28/03/2020"
-  },
-  "15": {
-    "flight": "BA27",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "73K"
-    ],
-    "date": "28/03/2020"
-  },
-  "16": {
-    "flight": "BA27",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "72J/72K"
-    ],
-    "date": "28/03/2020"
-  },
-  "17": {
-    "flight": "BA27",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "26G"
-    ],
-    "date": "28/03/2020"
-  },
-  "18": {
-    "flight": "CX216",
-    "departure": [
-      "Manchester"
-    ],
-    "seats": [
-      "47J"
-    ],
-    "date": "28/03/2020"
-  },
-  "19": {
-    "flight": "CX216",
-    "departure": [
-      "Manchester"
-    ],
-    "seats": [
-      "61J"
-    ],
-    "date": "28/03/2020"
-  },
-  "20": {
-    "flight": "CX250",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "20G"
-    ],
-    "date": "28/03/2020"
-  },
-  "21": {
-    "flight": "CX238",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "60A"
-    ],
-    "date": "28/03/2020"
-  },
-  "22": {
-    "flight": "CX238",
-    "departure": [
-      "London"
-    ],
-    "seats": [
-      "60B"
-    ],
-    "date": "28/03/2020"
-  },
-  "23": {
     "flight": "GA876",
     "departure": [
       "Jakarta"
@@ -239,7 +9,7 @@
     ],
     "date": "29/03/2020"
   },
-  "24": {
+  "1": {
     "flight": "CX238",
     "departure": [
       "London"
@@ -249,17 +19,19 @@
     ],
     "date": "29/03/2020"
   },
-  "25": {
+  "2": {
     "flight": "CX260",
     "departure": [
-      "Paris"
+      "P",
+      "a",
+      "ris"
     ],
     "seats": [
       "19D"
     ],
     "date": "29/03/2020"
   },
-  "26": {
+  "3": {
     "flight": "VS206",
     "departure": [
       "London"
@@ -269,7 +41,7 @@
     ],
     "date": "29/03/2020"
   },
-  "27": {
+  "4": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -279,7 +51,7 @@
     ],
     "date": "29/03/2020"
   },
-  "28": {
+  "5": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -289,7 +61,7 @@
     ],
     "date": "29/03/2020"
   },
-  "29": {
+  "6": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -299,7 +71,7 @@
     ],
     "date": "29/03/2020"
   },
-  "30": {
+  "7": {
     "flight": "CX238",
     "departure": [
       "London"
@@ -309,7 +81,7 @@
     ],
     "date": "29/03/2020"
   },
-  "31": {
+  "8": {
     "flight": "CX238",
     "departure": [
       "London"
@@ -319,17 +91,19 @@
     ],
     "date": "29/03/2020"
   },
-  "32": {
+  "9": {
     "flight": "CX260",
     "departure": [
-      "Paris"
+      "P",
+      "a",
+      "ris"
     ],
     "seats": [
       "19G"
     ],
     "date": "29/03/2020"
   },
-  "33": {
+  "10": {
     "flight": "CX881",
     "departure": [
       "Los",
@@ -340,7 +114,7 @@
     ],
     "date": "29/03/2020"
   },
-  "34": {
+  "11": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -350,7 +124,7 @@
     ],
     "date": "29/03/2020"
   },
-  "35": {
+  "12": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -360,7 +134,7 @@
     ],
     "date": "29/03/2020"
   },
-  "36": {
+  "13": {
     "flight": "CX260",
     "departure": [
       "France"
@@ -370,7 +144,7 @@
     ],
     "date": "29/03/2020"
   },
-  "37": {
+  "14": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -380,7 +154,7 @@
     ],
     "date": "29/03/2020"
   },
-  "38": {
+  "15": {
     "flight": "CX238",
     "departure": [
       "London"
@@ -390,19 +164,33 @@
     ],
     "date": "29/03/2020"
   },
-  "39": {
+  "16": {
+    "flight": "CX252",
+    "departure": [
+      "London"
+    ],
+    "seats": [
+      "44J"
+    ],
+    "date": "29/03/2020"
+  },
+  "17": {
     "flight": "CX831",
     "departure": [
-      "New",
-      "York"
+      "N",
+      "e",
+      "w",
+      "Yo",
+      "r",
+      "k"
     ],
     "seats": [
       "62C"
     ],
     "date": "30/03/2020"
   },
-  "40": {
-    "flight": "CX811",
+  "18": {
+    "flight": "X811",
     "departure": [
       "Boston"
     ],
@@ -411,7 +199,7 @@
     ],
     "date": "30/03/2020"
   },
-  "41": {
+  "19": {
     "flight": "CX851",
     "departure": [
       "San",
@@ -422,29 +210,37 @@
     ],
     "date": "30/03/2020"
   },
-  "42": {
+  "20": {
     "flight": "CX831",
     "departure": [
-      "New",
-      "York"
+      "N",
+      "e",
+      "w",
+      "Yo",
+      "r",
+      "k"
     ],
     "seats": [
       "11K"
     ],
     "date": "30/03/2020"
   },
-  "43": {
+  "21": {
     "flight": "CX831",
     "departure": [
-      "New",
-      "York"
+      "N",
+      "e",
+      "w",
+      "Yo",
+      "r",
+      "k"
     ],
     "seats": [
       "39G"
     ],
     "date": "30/03/2020"
   },
-  "44": {
+  "22": {
     "flight": "CX256",
     "departure": [
       "London"
@@ -454,7 +250,7 @@
     ],
     "date": "30/03/2020"
   },
-  "45": {
+  "23": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -464,7 +260,7 @@
     ],
     "date": "30/03/2020"
   },
-  "46": {
+  "24": {
     "flight": "CX256",
     "departure": [
       "London"
@@ -474,18 +270,22 @@
     ],
     "date": "30/03/2020"
   },
-  "47": {
+  "25": {
     "flight": "CX831",
     "departure": [
-      "New",
-      "York"
+      "N",
+      "e",
+      "w",
+      "Yo",
+      "r",
+      "k"
     ],
     "seats": [
       "62G"
     ],
     "date": "30/03/2020"
   },
-  "48": {
+  "26": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -495,18 +295,22 @@
     ],
     "date": "30/03/2020"
   },
-  "49": {
+  "27": {
     "flight": "CX831",
     "departure": [
-      "New",
-      "York"
+      "N",
+      "e",
+      "w",
+      "Yo",
+      "r",
+      "k"
     ],
     "seats": [
       "Unknown"
     ],
     "date": "30/03/2020"
   },
-  "50": {
+  "28": {
     "flight": "CX256",
     "departure": [
       "London"
@@ -516,7 +320,7 @@
     ],
     "date": "30/03/2020"
   },
-  "51": {
+  "29": {
     "flight": "CX881",
     "departure": [
       "Los",
@@ -527,19 +331,23 @@
     ],
     "date": "30/03/2020"
   },
-  "52": {
+  "30": {
     "flight": "CX831",
     "departure": [
-      "New",
-      "York"
+      "N",
+      "e",
+      "w",
+      "Yo",
+      "r",
+      "k"
     ],
     "seats": [
       "22K"
     ],
     "date": "30/03/2020"
   },
-  "53": {
-    "flight": "CX811",
+  "31": {
+    "flight": "X811",
     "departure": [
       "Boston"
     ],
@@ -548,7 +356,7 @@
     ],
     "date": "30/03/2020"
   },
-  "54": {
+  "32": {
     "flight": "CX851",
     "departure": [
       "San",
@@ -559,7 +367,7 @@
     ],
     "date": "30/03/2020"
   },
-  "55": {
+  "33": {
     "flight": "GA876",
     "departure": [
       "Jakarta"
@@ -569,7 +377,7 @@
     ],
     "date": "31/03/2020"
   },
-  "56": {
+  "34": {
     "flight": "CX216",
     "departure": [
       "Manchester"
@@ -579,7 +387,7 @@
     ],
     "date": "31/03/2020"
   },
-  "57": {
+  "35": {
     "flight": "VS206",
     "departure": [
       "London"
@@ -589,7 +397,7 @@
     ],
     "date": "31/03/2020"
   },
-  "58": {
+  "36": {
     "flight": "VS206",
     "departure": [
       "London"
@@ -599,7 +407,7 @@
     ],
     "date": "31/03/2020"
   },
-  "59": {
+  "37": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -609,7 +417,7 @@
     ],
     "date": "31/03/2020"
   },
-  "60": {
+  "38": {
     "flight": "CX216",
     "departure": [
       "Manchester"
@@ -619,7 +427,7 @@
     ],
     "date": "31/03/2020"
   },
-  "61": {
+  "39": {
     "flight": "CX256",
     "departure": [
       "London"
@@ -629,7 +437,7 @@
     ],
     "date": "31/03/2020"
   },
-  "62": {
+  "40": {
     "flight": "VS206",
     "departure": [
       "London"
@@ -639,7 +447,7 @@
     ],
     "date": "31/03/2020"
   },
-  "63": {
+  "41": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -649,7 +457,7 @@
     ],
     "date": "31/03/2020"
   },
-  "64": {
+  "42": {
     "flight": "CX256",
     "departure": [
       "London"
@@ -659,7 +467,7 @@
     ],
     "date": "31/03/2020"
   },
-  "65": {
+  "43": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -669,7 +477,7 @@
     ],
     "date": "31/03/2020"
   },
-  "66": {
+  "44": {
     "flight": "CX256",
     "departure": [
       "London"
@@ -679,7 +487,7 @@
     ],
     "date": "31/03/2020"
   },
-  "67": {
+  "45": {
     "flight": "KL887",
     "departure": [
       "Amsterdam"
@@ -689,7 +497,7 @@
     ],
     "date": "31/03/2020"
   },
-  "68": {
+  "46": {
     "flight": "CX256",
     "departure": [
       "London"
@@ -699,7 +507,7 @@
     ],
     "date": "31/03/2020"
   },
-  "69": {
+  "47": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -709,7 +517,7 @@
     ],
     "date": "31/03/2020"
   },
-  "70": {
+  "48": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -719,7 +527,7 @@
     ],
     "date": "31/03/2020"
   },
-  "71": {
+  "49": {
     "flight": "CX256",
     "departure": [
       "London"
@@ -729,17 +537,18 @@
     ],
     "date": "31/03/2020"
   },
-  "72": {
+  "50": {
     "flight": "CX382",
     "departure": [
-      "Zurich"
+      "Zuric",
+      "h"
     ],
     "seats": [
       "69D"
     ],
     "date": "31/03/2020"
   },
-  "73": {
+  "51": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -749,17 +558,19 @@
     ],
     "date": "01/04/2020"
   },
-  "74": {
+  "52": {
     "flight": "CX906",
     "departure": [
-      "Manila"
+      "M",
+      "a",
+      "nila"
     ],
     "seats": [
       "65A"
     ],
     "date": "01/04/2020"
   },
-  "75": {
+  "53": {
     "flight": "CX865",
     "departure": [
       "Vancouver"
@@ -769,7 +580,7 @@
     ],
     "date": "01/04/2020"
   },
-  "76": {
+  "54": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -779,7 +590,7 @@
     ],
     "date": "01/04/2020"
   },
-  "77": {
+  "55": {
     "flight": "CX865",
     "departure": [
       "Vancouver"
@@ -789,7 +600,7 @@
     ],
     "date": "01/04/2020"
   },
-  "78": {
+  "56": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -799,7 +610,7 @@
     ],
     "date": "01/04/2020"
   },
-  "79": {
+  "57": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -809,7 +620,7 @@
     ],
     "date": "01/04/2020"
   },
-  "80": {
+  "58": {
     "flight": "CX883",
     "departure": [
       "Los",
@@ -820,7 +631,7 @@
     ],
     "date": "02/04/2020"
   },
-  "81": {
+  "59": {
     "flight": "QR818",
     "departure": [
       "Doha"
@@ -830,7 +641,7 @@
     ],
     "date": "02/04/2020"
   },
-  "82": {
+  "60": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -840,7 +651,7 @@
     ],
     "date": "02/04/2020"
   },
-  "83": {
+  "61": {
     "flight": "VS206",
     "departure": [
       "London"
@@ -850,7 +661,7 @@
     ],
     "date": "02/04/2020"
   },
-  "84": {
+  "62": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -860,7 +671,7 @@
     ],
     "date": "02/04/2020"
   },
-  "85": {
+  "63": {
     "flight": "BA29",
     "departure": [
       "London"
@@ -870,7 +681,7 @@
     ],
     "date": "02/04/2020"
   },
-  "86": {
+  "64": {
     "flight": "CX883",
     "departure": [
       "Los",
@@ -881,7 +692,7 @@
     ],
     "date": "02/04/2020"
   },
-  "87": {
+  "65": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -891,7 +702,7 @@
     ],
     "date": "02/04/2020"
   },
-  "88": {
+  "66": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -901,7 +712,7 @@
     ],
     "date": "02/04/2020"
   },
-  "89": {
+  "67": {
     "flight": "CX521",
     "departure": [
       "Tokyo"
@@ -911,7 +722,7 @@
     ],
     "date": "02/04/2020"
   },
-  "90": {
+  "68": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -921,7 +732,7 @@
     ],
     "date": "02/04/2020"
   },
-  "91": {
+  "69": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -931,7 +742,7 @@
     ],
     "date": "02/04/2020"
   },
-  "92": {
+  "70": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -941,7 +752,7 @@
     ],
     "date": "02/04/2020"
   },
-  "93": {
+  "71": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -951,7 +762,7 @@
     ],
     "date": "03/04/2020"
   },
-  "94": {
+  "72": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -961,7 +772,7 @@
     ],
     "date": "03/04/2020"
   },
-  "95": {
+  "73": {
     "flight": "KL887",
     "departure": [
       "Amsterdam"
@@ -971,17 +782,18 @@
     ],
     "date": "03/04/2020"
   },
-  "96": {
+  "74": {
     "flight": "RH9490",
     "departure": [
-      "Almaty"
+      "Alma",
+      "ty"
     ],
     "seats": [
       "Pilot"
     ],
     "date": "03/04/2020"
   },
-  "97": {
+  "75": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -991,7 +803,7 @@
     ],
     "date": "04/04/2020"
   },
-  "98": {
+  "76": {
     "flight": "CX216",
     "departure": [
       "Manchester"
@@ -1001,7 +813,7 @@
     ],
     "date": "04/04/2020"
   },
-  "99": {
+  "77": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -1011,7 +823,7 @@
     ],
     "date": "04/04/2020"
   },
-  "100": {
+  "78": {
     "flight": "VS206",
     "departure": [
       "London"
@@ -1021,7 +833,7 @@
     ],
     "date": "04/04/2020"
   },
-  "101": {
+  "79": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -1031,7 +843,7 @@
     ],
     "date": "04/04/2020"
   },
-  "102": {
+  "80": {
     "flight": "CX521",
     "departure": [
       "Tokyo"
@@ -1041,7 +853,7 @@
     ],
     "date": "04/04/2020"
   },
-  "103": {
+  "81": {
     "flight": "CX521",
     "departure": [
       "Tokyo"
@@ -1052,28 +864,32 @@
     ],
     "date": "04/04/2020"
   },
-  "104": {
+  "82": {
     "flight": "CX841",
     "departure": [
       "New",
-      "York"
+      "Yo",
+      "r",
+      "k"
     ],
     "seats": [
       "32D"
     ],
     "date": "04/04/2020"
   },
-  "105": {
+  "83": {
     "flight": "CX260",
     "departure": [
-      "Paris"
+      "P",
+      "a",
+      "ris"
     ],
     "seats": [
       "62J"
     ],
     "date": "04/04/2020"
   },
-  "106": {
+  "84": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -1083,17 +899,19 @@
     ],
     "date": "04/04/2020"
   },
-  "107": {
+  "85": {
     "flight": "CX260",
     "departure": [
-      "Paris"
+      "P",
+      "a",
+      "ris"
     ],
     "seats": [
       "11G"
     ],
     "date": "04/04/2020"
   },
-  "108": {
+  "86": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -1103,28 +921,34 @@
     ],
     "date": "04/04/2020"
   },
-  "109": {
+  "87": {
     "flight": "CX841",
     "departure": [
-      "New",
-      "York"
+      "N",
+      "e",
+      "w",
+      "Yo",
+      "r",
+      "k"
     ],
     "seats": [
-      "A2"
+      "2A"
     ],
     "date": "04/04/2020"
   },
-  "110": {
+  "88": {
     "flight": "CX260",
     "departure": [
-      "Paris"
+      "P",
+      "a",
+      "ris"
     ],
     "seats": [
       "63K"
     ],
     "date": "04/04/2020"
   },
-  "111": {
+  "89": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -1134,7 +958,7 @@
     ],
     "date": "05/04/2020"
   },
-  "112": {
+  "90": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -1144,7 +968,7 @@
     ],
     "date": "05/04/2020"
   },
-  "113": {
+  "91": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -1154,7 +978,7 @@
     ],
     "date": "05/04/2020"
   },
-  "114": {
+  "92": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -1164,7 +988,7 @@
     ],
     "date": "05/04/2020"
   },
-  "115": {
+  "93": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -1174,7 +998,7 @@
     ],
     "date": "05/04/2020"
   },
-  "116": {
+  "94": {
     "flight": "JL29",
     "departure": [
       "Tokyo"
@@ -1184,7 +1008,7 @@
     ],
     "date": "05/04/2020"
   },
-  "117": {
+  "95": {
     "flight": "BA27",
     "departure": [
       "London"
@@ -1194,10 +1018,11 @@
     ],
     "date": "05/04/2020"
   },
-  "118": {
+  "96": {
     "flight": "KA734",
     "departure": [
-      "Kuala",
+      "K",
+      "uala",
       "Lumpur"
     ],
     "seats": [
@@ -1205,7 +1030,7 @@
     ],
     "date": "05/04/2020"
   },
-  "119": {
+  "97": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -1215,7 +1040,7 @@
     ],
     "date": "05/04/2020"
   },
-  "120": {
+  "98": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -1225,7 +1050,7 @@
     ],
     "date": "05/04/2020"
   },
-  "121": {
+  "99": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -1235,7 +1060,7 @@
     ],
     "date": "06/04/2020"
   },
-  "122": {
+  "100": {
     "flight": "CX881",
     "departure": [
       "Los",
@@ -1246,7 +1071,7 @@
     ],
     "date": "06/04/2020"
   },
-  "123": {
+  "101": {
     "flight": "VS206",
     "departure": [
       "London"
@@ -1256,7 +1081,7 @@
     ],
     "date": "06/04/2020"
   },
-  "124": {
+  "102": {
     "flight": "VS206",
     "departure": [
       "London"
@@ -1266,7 +1091,7 @@
     ],
     "date": "06/04/2020"
   },
-  "125": {
+  "103": {
     "flight": "VS206",
     "departure": [
       "London"
@@ -1276,7 +1101,7 @@
     ],
     "date": "06/04/2020"
   },
-  "126": {
+  "104": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -1286,7 +1111,7 @@
     ],
     "date": "07/04/2020"
   },
-  "127": {
+  "105": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -1296,17 +1121,19 @@
     ],
     "date": "08/04/2020"
   },
-  "128": {
+  "106": {
     "flight": "CX906",
     "departure": [
-      "Manila"
+      "M",
+      "a",
+      "nila"
     ],
     "seats": [
       "42A"
     ],
     "date": "08/04/2020"
   },
-  "129": {
+  "107": {
     "flight": "CX865",
     "departure": [
       "Vancouver"
@@ -1316,7 +1143,7 @@
     ],
     "date": "08/04/2020"
   },
-  "130": {
+  "108": {
     "flight": "CX865",
     "departure": [
       "Vancouver"
@@ -1326,7 +1153,7 @@
     ],
     "date": "08/04/2020"
   },
-  "131": {
+  "109": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -1336,7 +1163,7 @@
     ],
     "date": "08/04/2020"
   },
-  "132": {
+  "110": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -1346,17 +1173,17 @@
     ],
     "date": "08/04/2020"
   },
-  "133": {
+  "111": {
     "flight": "GA876",
     "departure": [
       "Jakarta"
     ],
     "seats": [
-      "Unknown"
+      "6K"
     ],
     "date": "08/04/2020"
   },
-  "134": {
+  "112": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -1366,7 +1193,7 @@
     ],
     "date": "09/04/2020"
   },
-  "135": {
+  "113": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -1376,7 +1203,17 @@
     ],
     "date": "09/04/2020"
   },
-  "136": {
+  "114": {
+    "flight": "CX521",
+    "departure": [
+      "Tokyo"
+    ],
+    "seats": [
+      "15A"
+    ],
+    "date": "09/04/2020"
+  },
+  "115": {
     "flight": "CX521",
     "departure": [
       "Tokyo"
@@ -1386,7 +1223,7 @@
     ],
     "date": "09/04/2020"
   },
-  "137": {
+  "116": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -1396,7 +1233,7 @@
     ],
     "date": "10/04/2020"
   },
-  "138": {
+  "117": {
     "flight": "CX252",
     "departure": [
       "London"
@@ -1406,13 +1243,23 @@
     ],
     "date": "10/04/2020"
   },
-  "139": {
+  "118": {
     "flight": "QR818",
     "departure": [
       "Doha"
     ],
     "seats": [
       "21A"
+    ],
+    "date": "10/04/2020"
+  },
+  "119": {
+    "flight": "CX521",
+    "departure": [
+      "Tokyo"
+    ],
+    "seats": [
+      "65D"
     ],
     "date": "10/04/2020"
   }

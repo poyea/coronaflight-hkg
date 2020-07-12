@@ -51,6 +51,8 @@ const copyDog = () => {
         }
         gPath.push(o)
         ++_
+      }else if(dataArr[i] === "*Passengers"){
+        break;
       }
     }
     // console.log(gPath)

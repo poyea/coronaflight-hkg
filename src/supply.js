@@ -51,7 +51,7 @@ const copyDog = () => {
         }
         gPath.push(o)
         ++_
-      }else if(dataArr[i] === "*Passengers"){
+      }else if(dataArr[i].match(/[*\s+]?Passengers/)){
         break;
       }
     }

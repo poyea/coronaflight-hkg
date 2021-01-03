@@ -6,7 +6,7 @@ const checkArr = require('../utils/checkarr');
 const writeDir = './out/json/';
 const readDir = './out/dump/';
 
-const copyDog = () => {
+const outputWorker = () => {
   fs.readFile(`${readDir}latest.txt`, 'utf8', (err, data) => {
     if (err) throw err;
     const flightCodeRegex = /(\b([A-Z]\d|[A-Z]{2,3}|\d[A-Z])\d{2,4}\b)/g;
@@ -19,25 +19,25 @@ const copyDog = () => {
     const arrayToWrite = [];
     for (let i = 0; i < n; ++i) {
       if (dataArr[i] === retFlightarr[flightArrayIndex]) {
-        const p = [];
-        const s = [];
+        const place = [];
+        const seatsID = [];
         while (!(dataArr[i + 1][0] <= ':' || dataArr[i + 1].match(seatsRegex))) {
-          p.push(dataArr[++i]);
+          place.push(dataArr[++i]);
         }
         while (!dataArr[i + 1].match(dateRegex)) {
           if (dataArr[i + 1] === ':') {
-            s.push('Unknown'); // Unknown
+            seatsID.push('Unknown'); // Unknown
             ++i;
             break;
           } else if (dataArr[i + 1].match(/[(]?999[)]?/)) {
-            s.push('CC'); // Cabin Crew
+            seatsID.push('CC'); // Cabin Crew
             ++i;
           } else if (dataArr[i + 1].match(/[(]?888[)]?/)) {
-            s.push('Pilot'); // Pilot
+            seatsID.push('Pilot'); // Pilot
             ++i;
           } else if (dataArr[i + 1] === 'and') {
             ++i;
-          } else { s.push(dataArr[++i]); }
+          } else { seatsID.push(dataArr[++i]); }
         }
         let formattedDate = dataArr[++i].split('/');
         formattedDate[0] = String('0' + formattedDate[0]).slice(-2);
@@ -45,8 +45,8 @@ const copyDog = () => {
         formattedDate = formattedDate.join('/');
         const objectToAdd = {
           flight: retFlightarr[flightArrayIndex],
-          departure: p,
-          seats: s,
+          departure: place,
+          seats: seatsID,
           date: formattedDate
         };
         arrayToWrite.push(objectToAdd);
@@ -85,8 +85,8 @@ const copyDog = () => {
         if (dum === undefined) historyToWrite.push(e);
       });
       const writingHistory = JSON.stringify({ ...historyToWrite }, null, 2);
-      fs.writeFile(`${writeDir}history.json`, writingHistory, (ehisw) => {
-        if (ehisw) throw ehisw;
+      fs.writeFile(`${writeDir}history.json`, writingHistory, (error) => {
+        if (error) throw error;
         console.log(`Update checked! Written to ${writeDir}new-history.json!`);
       });
     }).catch(error => {
@@ -95,4 +95,4 @@ const copyDog = () => {
   });
 };
 
-module.exports = copyDog;
+module.exports = outputWorker;

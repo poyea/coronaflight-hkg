@@ -29,10 +29,10 @@ const outputWorker = () => {
             seatsID.push('Unknown'); // Unknown
             ++i;
             break;
-          } else if (dataArr[i + 1].match(/[(]?999[)]?/)) {
+          } else if (dataArr[i + 1].match(/[(]?__CREW[)]?/)) {
             seatsID.push('CC'); // Cabin Crew
             ++i;
-          } else if (dataArr[i + 1].match(/[(]?888[)]?/)) {
+          } else if (dataArr[i + 1].match(/[(]?__PILOT[)]?/)) {
             seatsID.push('Pilot'); // Pilot
             ++i;
           } else if (dataArr[i + 1] === 'and') {

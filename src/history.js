@@ -1,6 +1,6 @@
-const fs = require('fs');
 const readInFile = require('../utils/readf');
 const checkArr = require('../utils/checkarr');
+const writeToFile = require('../utils/writef');
 
 /* ===== ===== History Management ===== ===== */
 const history = (dir) => {
@@ -31,10 +31,11 @@ const history = (dir) => {
         null,
         2
       );
-      fs.writeFile(`${dir}history.json`, writingHistory, (error) => {
-        if (error) throw error;
-        console.log(`Update checked! Written to ${dir}history.json!`);
-      });
+      writeToFile(
+        `${dir}history.json`,
+        writingHistory,
+        `Update checked! Written to ${dir}history.json!`
+      );
     })
     .catch((error) => {
       console.log('Unexpected error: ' + error);

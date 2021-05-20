@@ -5,18 +5,30 @@ const writeToFile = require('../utils/writef');
 
 const writeDir = './out/dump/';
 
-const copyCat = async (dog) => {
-  await crawler('https://www.chp.gov.hk/files/pdf/flights_trains_en.pdf')
+const copyCat = (dog) => {
+  crawler('https://www.chp.gov.hk/files/pdf/flights_trains_en.pdf')
     .then((r) => {
       const t = transform(r.text);
       const $ = moment().format('HHmm-DD-MM-YYYY');
       console.log(`Working on ${$}`);
-      writeToFile(`${writeDir}${$}-raw.txt`, r.text, 'The raw file has been crawled and saved!');
-      writeToFile(`${writeDir}${$}.txt`, t, 'The file has been fixed and save!');
-      writeToFile(`${writeDir}latest.txt`, t, 'Local latest dump is updated! - `./out/dump/lastest.txt`');
+      writeToFile(
+        `${writeDir}${$}-raw.txt`,
+        r.text,
+        'The raw file has been crawled and saved!'
+      );
+      writeToFile(
+        `${writeDir}${$}.txt`,
+        t,
+        'The file has been fixed and save!'
+      );
+      writeToFile(
+        `${writeDir}latest.txt`,
+        t,
+        'Local latest dump is updated! - `./out/dump/lastest.txt`'
+      );
     })
-    .then(console.log('====='));
-  dog();
+    .then(console.log('====='))
+    .then(dog());
 };
 
 module.exports = copyCat;

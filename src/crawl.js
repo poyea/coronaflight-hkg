@@ -26,9 +26,9 @@ const copyCat = (dog) => {
         t,
         'Local latest dump is updated! - `./out/dump/lastest.txt`'
       );
-    })
-    .then(console.log('====='))
-    .then(dog());
+      console.log('=====');
+      dog();
+    });
 };
 
 module.exports = copyCat;

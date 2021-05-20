@@ -15,7 +15,8 @@ async function runClean () {
   };
   let confirm = 'N';
   confirm = await qAndA('Are you sure to clean all the previous dump and output? This action is irreversible.[y/N] ');
-  if (confirm === 'Y' || confirm === 'y') {
+  if (confirm.toLowerCase() === 'y') {
+    // remove txt
     fs.readdir('./out/dump', (err, files) => {
       if (err) throw err;
       const dateFormateRegex = /\d{4}-\d{2}-\d{2}-\d{4}(-raw)?\.txt/;
@@ -27,6 +28,7 @@ async function runClean () {
       });
     });
 
+    // remove json
     fs.readdir('./out/json', (err, files) => {
       if (err) throw err;
       const dateFormateRegex = /\d{4}-\d{2}-\d{2}-\d{4}(-raw)?\.json/;
@@ -36,6 +38,8 @@ async function runClean () {
           fs.unlinkSync('./out/json/' + dir);
         }
       });
+
+      // done
       console.log('Congrats! Your dump and output files are erased.');
     });
   } else {

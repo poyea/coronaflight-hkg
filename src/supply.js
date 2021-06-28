@@ -7,7 +7,7 @@ const writeDir = './out/json/';
 const readDir = './out/dump/';
 
 const flightCodeRegex = /(\b([A-Z]\d|[A-Z]{2,3}|\d[A-Z])\d{2,4}\b)/g;
-const dateRegex = /^\d{1,2}[./]\d{1,2}[./]\d{4}$/;
+const dateRegex = /^\d{1,2}[.\/]\d{1,2}[.\/]\d{4}$/;
 const seatsRegex = /\b([A-Z]\d{1,3}|\d{1,3}[A-Z]|Row.*|Row)\b/;
 
 const outputWorker = () => {
@@ -30,7 +30,7 @@ const outputWorker = () => {
         ) {
           place.push(dataArr[++i]);
         }
-        while (!dataArr[i + 1].match(dateRegex)) {
+        while (dataArr[i] != "*" && !dataArr[i + 1].match(dateRegex)) {
           if (dataArr[i + 1] === ':') {
             seatsID.push('Unknown'); // Unknown
             ++i;
@@ -59,7 +59,7 @@ const outputWorker = () => {
         };
         arrayToWrite.push(objectToAdd);
         ++flightArrayIndex;
-      } else if (dataArr[i].match(/(\*\s+)?(Passengers)?/)) {
+      } else if (dataArr[i].match(/[*]*(\s+)*Passengers/)) {
         break;
       }
     }

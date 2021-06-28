@@ -59,7 +59,7 @@ const outputWorker = () => {
         };
         arrayToWrite.push(objectToAdd);
         ++flightArrayIndex;
-      } else if (dataArr[i].match(/[*\s+]?Passengers/)) {
+      } else if (dataArr[i].match(/(\*\s+)?(Passengers)?/)) {
         break;
       }
     }

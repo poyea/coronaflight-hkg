@@ -9,6 +9,7 @@ const readDir = './out/dump/';
 const flightCodeRegex = /(\b([A-Z]\d|[A-Z]{2,3}|\d[A-Z])\d{2,4}\b)/g;
 const dateRegex = /^\d{1,2}[.\/]\d{1,2}[.\/]\d{4}$/;
 const seatsRegex = /\b([A-Z]\d{1,3}|\d{1,3}[A-Z]|Row.*|Row)\b/;
+const cityRegex = /\b[a-zA-z\s,]+\b/;
 
 const outputWorker = () => {
   fs.readFile(`${readDir}latest.txt`, 'utf8', (err, data) => {
@@ -19,7 +20,7 @@ const outputWorker = () => {
     const n = dataArr.length;
     const arrayToWrite = [];
     for (let i = 0; i < n; ++i) {
-      if (dataArr[i] === retFlightarr[flightArrayIndex]) {
+      if (dataArr[i] === retFlightarr[flightArrayIndex] && dataArr[i+1].match(cityRegex)) {
         const place = [];
         const seatsID = [];
         while (

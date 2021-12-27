@@ -7,8 +7,14 @@ const writeDir = './out/json/';
 const readDir = './out/dump/';
 
 const flightCodeRegex = /(\b([A-Z]\d|[A-Z]{2,3}|\d[A-Z])\d{2,4}\b)/g;
-const dateRegex = /^\d{1,2}[.\/]\d{1,2}[.\/]\d{4}$/;
+const dateRegex = /^\d{1,2}[./]\d{1,2}[./]\d{4}$/;
 const seatsRegex = /\b([A-Z]\d{1,3}|\d{1,3}[A-Z]|Row.*|Row)\b/;
+const crewRegex = /\b__CREW\b/;
+const pilotRegex = /\b__PILOT\b/;
+const pendingRegex = /\b__PENDING\b/;
+const infantRegex = /\b__INFANT\b/;
+const unknownRegex = /\b__UNKNOWN\b/;
+const naRegex = /\b__NA\b/;
 const cityRegex = /\b[a-zA-z\s,]+\b/;
 
 const outputWorker = () => {
@@ -20,27 +26,43 @@ const outputWorker = () => {
     const n = dataArr.length;
     const arrayToWrite = [];
     for (let i = 0; i < n; ++i) {
-      if (dataArr[i] === retFlightarr[flightArrayIndex] && dataArr[i+1].match(cityRegex)) {
+      if (dataArr[i] === retFlightarr[flightArrayIndex] && dataArr[i + 1].match(cityRegex)) {
         const place = [];
         const seatsID = [];
         while (
           !(
             dataArr[i + 1][0] <= ':' ||
-                        dataArr[i + 1].match(seatsRegex)
+                        dataArr[i + 1].match(seatsRegex) ||
+                        dataArr[i + 1].match(crewRegex) ||
+                        dataArr[i + 1].match(pilotRegex) ||
+                        dataArr[i + 1].match(pendingRegex) ||
+                        dataArr[i + 1].match(infantRegex) ||
+                        dataArr[i + 1].match(unknownRegex) ||
+                        dataArr[i + 1].match(naRegex)
           )
         ) {
           place.push(dataArr[++i]);
         }
-        while (dataArr[i] != "*" && !dataArr[i + 1].match(dateRegex)) {
-          if (dataArr[i + 1] === ':') {
+        while (dataArr[i] !== '*' && !dataArr[i + 1].match(dateRegex)) {
+          if (dataArr[i + 1].match(unknownRegex)) {
             seatsID.push('Unknown'); // Unknown
             ++i;
             break;
-          } else if (dataArr[i + 1].match(/[(]?__CREW[)]?/)) {
+          } if (dataArr[i + 1].match(naRegex)) {
+            seatsID.push('NA'); // NA
+            ++i;
+            break;
+          } else if (dataArr[i + 1].match(crewRegex)) {
             seatsID.push('CC'); // Cabin Crew
             ++i;
-          } else if (dataArr[i + 1].match(/[(]?__PILOT[)]?/)) {
+          } else if (dataArr[i + 1].match(pilotRegex)) {
             seatsID.push('Pilot'); // Pilot
+            ++i;
+          } else if (dataArr[i + 1].match(pendingRegex)) {
+            seatsID.push('Pending'); // Pending
+            ++i;
+          } else if (dataArr[i + 1].match(infantRegex)) {
+            seatsID.push('Infant'); // Infant
             ++i;
           } else if (dataArr[i + 1] === 'and') {
             ++i;

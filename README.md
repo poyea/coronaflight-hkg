@@ -1,6 +1,6 @@
 # <p align="center">coronaflight-hkg
 
-![Node.js crawl trial](https://github.com/poyea/coronaflight-hkg/workflows/Node.js%20crawl%20trial/badge.svg)
+[![Node.js crawl trial](https://github.com/poyea/coronaflight-hkg/actions/workflows/nodejs.yml/badge.svg)](https://github.com/poyea/coronaflight-hkg/actions/workflows/nodejs.yml) [![ESLint](https://github.com/poyea/coronaflight-hkg/actions/workflows/eslint.yml/badge.svg)](https://github.com/poyea/coronaflight-hkg/actions/workflows/eslint.yml)
 
   * [Introduction](#introduction)
   * [Cleaning raw](#cleaning-raw)

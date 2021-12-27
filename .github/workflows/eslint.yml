@@ -6,6 +6,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install modules
-      run: npm ci
+      run: npm install --only=dev
     - name: ESLint it 📝
-      run: npm run lintfix || true
+      run: npm run lintfix

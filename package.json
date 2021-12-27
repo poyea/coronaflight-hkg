@@ -6,7 +6,7 @@
   "scripts": {
     "crawl": "node index.js",
     "clean": "node ./ops/clean.js",
-    "lintfix": "eslint --fix --ext .js,.jsx .",
+    "lintfix": "eslint --fix --ext .js .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -21,12 +21,12 @@
   "dependencies": {
     "crawler-request": "^1.2.2",
     "diff": "^4.0.2",
+    "minimist": ">=0.2.1",
     "moment": "^2.24.0",
-    "pdf-parse": "^1.1.1",
-    "minimist": ">=0.2.1"
+    "pdf-parse": "^1.1.1"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
+    "eslint": "^8.5.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": "^2.20.1",
     "eslint-plugin-node": "^11.0.0",

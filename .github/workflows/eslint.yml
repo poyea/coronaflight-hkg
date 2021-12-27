@@ -8,4 +8,4 @@ jobs:
     - name: Install modules
       run: npm ci
     - name: ESLint it 📝
-      run: eslint . --ext .js
+      run: npm run lintfix || true

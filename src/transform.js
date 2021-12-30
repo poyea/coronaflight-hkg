@@ -1,3 +1,32 @@
+class TagTransformer {
+  static customTagMap () {
+    return {
+      __UNKNOWN: 'Unknown',
+      __NA: 'NA',
+      __PENDING: 'Pending',
+      __INFANT: 'Infant',
+      __CREW: 'CC',
+      __PILOT: 'Pilot'
+    };
+  }
+
+  static isCustomTag (str) {
+    return str in TagTransformer.customTagMap();
+  }
+
+  static isUnknownOrNA (str) {
+    return str === '__UNKNOWN' || str === '__NA';
+  }
+
+  static customTagToDesc (str) {
+    return TagTransformer.customTagMap()[str];
+  }
+
+  static descToCustomTag (str) {
+    return '__' + str.toUpperCase();
+  }
+}
+
 const transform = (txt) =>
   txt
     .replace(/[\r\n]+/gm, '')
@@ -23,4 +52,7 @@ const transform = (txt) =>
     .replace(/,/g, '')
     .replace(/(Row)[\s\r\n]+(\d+)/g, '$1$2');
 
-module.exports = transform;
+module.exports = {
+  TagTransformer,
+  transform
+};

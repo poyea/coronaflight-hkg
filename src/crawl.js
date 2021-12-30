@@ -1,6 +1,8 @@
 const crawler = require('crawler-request');
 const moment = require('moment');
-const transform = require('./transform');
+const t = require('./transform');
+const transform = t.transform;
+
 const writeToFile = require('../utils/writef');
 
 const writeDir = './out/dump/';

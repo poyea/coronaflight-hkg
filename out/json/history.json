@@ -27283,5 +27283,272 @@
       "CC"
     ],
     "date": "25/12/2021"
+  },
+  "2631": {
+    "flight": "EK384",
+    "departure": [
+      "Dubai"
+    ],
+    "seats": [
+      "23D"
+    ],
+    "date": "22/12/2021"
+  },
+  "2632": {
+    "flight": "CX216",
+    "departure": [
+      "Manchester"
+    ],
+    "seats": [
+      "32A"
+    ],
+    "date": "25/12/2021"
+  },
+  "2633": {
+    "flight": "CX881",
+    "departure": [
+      "Los",
+      "Angeles"
+    ],
+    "seats": [
+      "42D"
+    ],
+    "date": "26/12/2021"
+  },
+  "2634": {
+    "flight": "CX881",
+    "departure": [
+      "Los",
+      "Angeles"
+    ],
+    "seats": [
+      "21A"
+    ],
+    "date": "26/12/2021"
+  },
+  "2635": {
+    "flight": "KE607",
+    "departure": [
+      "Seoul"
+    ],
+    "seats": [
+      "46E",
+      "/",
+      "48E"
+    ],
+    "date": "23/12/2021"
+  },
+  "2636": {
+    "flight": "CX2807",
+    "departure": [
+      "Chicago"
+    ],
+    "seats": [
+      "CC"
+    ],
+    "date": "25/12/2021"
+  },
+  "2637": {
+    "flight": "CX881",
+    "departure": [
+      "Los",
+      "Angeles"
+    ],
+    "seats": [
+      "59H"
+    ],
+    "date": "26/12/2021"
+  },
+  "2638": {
+    "flight": "CX893",
+    "departure": [
+      "San",
+      "Francisco"
+    ],
+    "seats": [
+      "41K"
+    ],
+    "date": "26/12/2021"
+  },
+  "2639": {
+    "flight": "AY101",
+    "departure": [
+      "Helsinki"
+    ],
+    "seats": [
+      "44C"
+    ],
+    "date": "26/12/2021"
+  },
+  "2640": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "16J"
+    ],
+    "date": "27/12/2021"
+  },
+  "2641": {
+    "flight": "AY101",
+    "departure": [
+      "Helsinki"
+    ],
+    "seats": [
+      "5L"
+    ],
+    "date": "27/12/2021"
+  },
+  "2642": {
+    "flight": "CX104",
+    "departure": [
+      "Melbourne"
+    ],
+    "seats": [
+      "62K"
+    ],
+    "date": "27/12/2021"
+  },
+  "2643": {
+    "flight": "CX2807",
+    "departure": [
+      "Chicago"
+    ],
+    "seats": [
+      "47K"
+    ],
+    "date": "28/12/2021"
+  },
+  "2644": {
+    "flight": "CX829",
+    "departure": [
+      "Toronto"
+    ],
+    "seats": [
+      "22A"
+    ],
+    "date": "28/12/2021"
+  },
+  "2645": {
+    "flight": "CX829",
+    "departure": [
+      "Toronto"
+    ],
+    "seats": [
+      "49J"
+    ],
+    "date": "28/12/2021"
+  },
+  "2646": {
+    "flight": "CX829",
+    "departure": [
+      "Toronto"
+    ],
+    "seats": [
+      "33H"
+    ],
+    "date": "28/12/2021"
+  },
+  "2647": {
+    "flight": "CX881",
+    "departure": [
+      "Los",
+      "Angeles"
+    ],
+    "seats": [
+      "60C"
+    ],
+    "date": "28/12/2021"
+  },
+  "2648": {
+    "flight": "EK384",
+    "departure": [
+      "Dubai"
+    ],
+    "seats": [
+      "25A"
+    ],
+    "date": "22/12/2021"
+  },
+  "2649": {
+    "flight": "AY101",
+    "departure": [
+      "Helsinki"
+    ],
+    "seats": [
+      "46A"
+    ],
+    "date": "27/12/2021"
+  },
+  "2650": {
+    "flight": "AY101",
+    "departure": [
+      "Helsinki"
+    ],
+    "seats": [
+      "41J"
+    ],
+    "date": "27/12/2021"
+  },
+  "2651": {
+    "flight": "TK083",
+    "departure": [
+      "Istanbul"
+    ],
+    "seats": [
+      "7D"
+    ],
+    "date": "28/12/2021"
+  },
+  "2652": {
+    "flight": "NH811",
+    "departure": [
+      "Tokyo"
+    ],
+    "seats": [
+      "19A"
+    ],
+    "date": "28/12/2021"
+  },
+  "2653": {
+    "flight": "UO724",
+    "departure": [
+      "Phuket"
+    ],
+    "seats": [
+      "25C"
+    ],
+    "date": "29/12/2021"
+  },
+  "2654": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "38J"
+    ],
+    "date": "29/12/2021"
+  },
+  "2655": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "43F"
+    ],
+    "date": "29/12/2021"
+  },
+  "2656": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "25G"
+    ],
+    "date": "29/12/2021"
   }
 }

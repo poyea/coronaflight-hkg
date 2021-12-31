@@ -40,7 +40,8 @@ const outputWorker = () => {
           } else if (dataArr[i + 1] === 'and') {
             ++i;
           } else {
-            seatsID.push(dataArr[++i]);
+            seatsID.push(dataArr[i + 1]);
+            ++i;
           }
         }
         let formattedDate = dataArr[++i].split('/');

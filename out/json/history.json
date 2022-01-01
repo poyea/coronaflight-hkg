@@ -27550,5 +27550,150 @@
       "25G"
     ],
     "date": "29/12/2021"
+  },
+  "2657": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "42J"
+    ],
+    "date": "27/12/2021"
+  },
+  "2658": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "38F"
+    ],
+    "date": "27/12/2021"
+  },
+  "2659": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "31A"
+    ],
+    "date": "27/12/2021"
+  },
+  "2660": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "41A"
+    ],
+    "date": "27/12/2021"
+  },
+  "2661": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "40D"
+    ],
+    "date": "27/12/2021"
+  },
+  "2662": {
+    "flight": "AC015",
+    "departure": [
+      "Toronto"
+    ],
+    "seats": [
+      "18H"
+    ],
+    "date": "27/12/2021"
+  },
+  "2663": {
+    "flight": "CX2807",
+    "departure": [
+      "Chicago"
+    ],
+    "seats": [
+      "16A"
+    ],
+    "date": "28/12/2021"
+  },
+  "2664": {
+    "flight": "CX881",
+    "departure": [
+      "Los",
+      "Angeles"
+    ],
+    "seats": [
+      "24K"
+    ],
+    "date": "28/12/2021"
+  },
+  "2665": {
+    "flight": "CX881",
+    "departure": [
+      "Los",
+      "Angeles"
+    ],
+    "seats": [
+      "60A"
+    ],
+    "date": "28/12/2021"
+  },
+  "2666": {
+    "flight": "AC007",
+    "departure": [
+      "Vancouver"
+    ],
+    "seats": [
+      "33J"
+    ],
+    "date": "29/12/2021"
+  },
+  "2667": {
+    "flight": "CX873",
+    "departure": [
+      "San",
+      "Francisco"
+    ],
+    "seats": [
+      "19K"
+    ],
+    "date": "30/12/2021"
+  },
+  "2668": {
+    "flight": "CX873",
+    "departure": [
+      "San",
+      "Francisco"
+    ],
+    "seats": [
+      "67K"
+    ],
+    "date": "30/12/2021"
+  },
+  "2669": {
+    "flight": "CX873",
+    "departure": [
+      "San",
+      "Francisco"
+    ],
+    "seats": [
+      "41A"
+    ],
+    "date": "30/12/2021"
+  },
+  "2670": {
+    "flight": "CX865",
+    "departure": [
+      "Vancouver"
+    ],
+    "seats": [
+      "17G"
+    ],
+    "date": "30/12/2021"
   }
 }

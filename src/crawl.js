@@ -5,7 +5,10 @@ const writeToFile = require('../utils/writef');
 
 const writeDir = './out/dump/';
 
-const copyCat = (dog) => {
+const dumper = (supplier) => {
+  if (supplier === undefined) {
+    throw Error('A supplier is not defined.');
+  }
   crawler('https://www.chp.gov.hk/files/pdf/flights_trains_en.pdf')
     .then((r) => {
       const t = transform(r.text);
@@ -27,8 +30,8 @@ const copyCat = (dog) => {
         'Local latest dump is updated! - `./out/dump/lastest.txt`'
       );
       console.log('=====');
-      dog();
+      supplier();
     });
 };
 
-module.exports = copyCat;
+module.exports = dumper;

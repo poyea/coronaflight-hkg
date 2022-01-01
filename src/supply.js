@@ -27,7 +27,8 @@ const outputWorker = () => {
         while (
           !(dataArr[i + 1].match(seatsRegex) || TagTransformer.isCustomTag(dataArr[i + 1]))
         ) {
-          place.push(dataArr[++i]);
+          place.push(dataArr[i + 1]);
+          ++i;
         }
         while (dataArr[i] !== '*' && !dataArr[i + 1].match(dateRegex)) {
           if (TagTransformer.isUnknownOrNA(dataArr[i + 1])) {

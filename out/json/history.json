@@ -27695,5 +27695,668 @@
       "17G"
     ],
     "date": "30/12/2021"
+  },
+  "2671": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "A2"
+    ],
+    "date": "28/12/2021"
+  },
+  "2672": {
+    "flight": "CX829",
+    "departure": [
+      "Toronto"
+    ],
+    "seats": [
+      "67J"
+    ],
+    "date": "28/12/2021"
+  },
+  "2673": {
+    "flight": "CX902",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "42G"
+    ],
+    "date": "28/12/2021"
+  },
+  "2674": {
+    "flight": "SQ007",
+    "departure": [
+      "San",
+      "Francisco"
+    ],
+    "seats": [
+      "51D"
+    ],
+    "date": "29/12/2021"
+  },
+  "2675": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "41F"
+    ],
+    "date": "29/12/2021"
+  },
+  "2676": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "47C"
+    ],
+    "date": "30/12/2021"
+  },
+  "2677": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "70C"
+    ],
+    "date": "30/12/2021"
+  },
+  "2678": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "43A"
+    ],
+    "date": "30/12/2021"
+  },
+  "2679": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "52H"
+    ],
+    "date": "30/12/2021"
+  },
+  "2680": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "44J"
+    ],
+    "date": "30/12/2021"
+  },
+  "2681": {
+    "flight": "SQ008",
+    "departure": [
+      "Singapore"
+    ],
+    "seats": [
+      "CC"
+    ],
+    "date": "30/12/2021"
+  },
+  "2682": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "44H"
+    ],
+    "date": "30/12/2021"
+  },
+  "2683": {
+    "flight": "LH796",
+    "departure": [
+      "Frankfurt"
+    ],
+    "seats": [
+      "30G"
+    ],
+    "date": "30/12/2021"
+  },
+  "2684": {
+    "flight": "CX521",
+    "departure": [
+      "Tokyo"
+    ],
+    "seats": [
+      "60G"
+    ],
+    "date": "30/12/2021"
+  },
+  "2685": {
+    "flight": "CX521",
+    "departure": [
+      "Tokyo"
+    ],
+    "seats": [
+      "65G"
+    ],
+    "date": "30/12/2021"
+  },
+  "2686": {
+    "flight": "EK384",
+    "departure": [
+      "Dubai"
+    ],
+    "seats": [
+      "45J"
+    ],
+    "date": "21/12/2021"
+  },
+  "2687": {
+    "flight": "CX885",
+    "departure": [
+      "Los",
+      "Angeles"
+    ],
+    "seats": [
+      "CC"
+    ],
+    "date": "27/12/2021"
+  },
+  "2688": {
+    "flight": "TK083",
+    "departure": [
+      "Istanbul"
+    ],
+    "seats": [
+      "16A"
+    ],
+    "date": "28/12/2021"
+  },
+  "2689": {
+    "flight": "AY101",
+    "departure": [
+      "Helsinki"
+    ],
+    "seats": [
+      "54H"
+    ],
+    "date": "29/12/2021"
+  },
+  "2690": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "48A"
+    ],
+    "date": "29/12/2021"
+  },
+  "2691": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "39D"
+    ],
+    "date": "29/12/2021"
+  },
+  "2692": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "43A"
+    ],
+    "date": "29/12/2021"
+  },
+  "2693": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "40A"
+    ],
+    "date": "29/12/2021"
+  },
+  "2694": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "22J"
+    ],
+    "date": "29/12/2021"
+  },
+  "2695": {
+    "flight": "AC007",
+    "departure": [
+      "Vancouver"
+    ],
+    "seats": [
+      "41H"
+    ],
+    "date": "29/12/2021"
+  },
+  "2696": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "27A"
+    ],
+    "date": "29/12/2021"
+  },
+  "2697": {
+    "flight": "5J272",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "26F"
+    ],
+    "date": "29/12/2021"
+  },
+  "2698": {
+    "flight": "AC015",
+    "departure": [
+      "Toronto"
+    ],
+    "seats": [
+      "35C"
+    ],
+    "date": "31/12/2021"
+  },
+  "2699": {
+    "flight": "KL819",
+    "departure": [
+      "Amsterdam"
+    ],
+    "seats": [
+      "3D"
+    ],
+    "date": "31/12/2021"
+  },
+  "2700": {
+    "flight": "KL819",
+    "departure": [
+      "Amsterdam"
+    ],
+    "seats": [
+      "57K"
+    ],
+    "date": "31/12/2021"
+  },
+  "2701": {
+    "flight": "KL819",
+    "departure": [
+      "Amsterdam"
+    ],
+    "seats": [
+      "18C"
+    ],
+    "date": "31/12/2021"
+  },
+  "2702": {
+    "flight": "KL819",
+    "departure": [
+      "Amsterdam"
+    ],
+    "seats": [
+      "32D"
+    ],
+    "date": "31/12/2021"
+  },
+  "2703": {
+    "flight": "KL819",
+    "departure": [
+      "Amsterdam"
+    ],
+    "seats": [
+      "59C"
+    ],
+    "date": "31/12/2021"
+  },
+  "2704": {
+    "flight": "KL819",
+    "departure": [
+      "Amsterdam"
+    ],
+    "seats": [
+      "31F"
+    ],
+    "date": "31/12/2021"
+  },
+  "2705": {
+    "flight": "CX104",
+    "departure": [
+      "Melbourne"
+    ],
+    "seats": [
+      "31D"
+    ],
+    "date": "31/12/2021"
+  },
+  "2706": {
+    "flight": "CX104",
+    "departure": [
+      "Melbourne"
+    ],
+    "seats": [
+      "69G"
+    ],
+    "date": "31/12/2021"
+  },
+  "2707": {
+    "flight": "CX216",
+    "departure": [
+      "Manchester"
+    ],
+    "seats": [
+      "43K"
+    ],
+    "date": "01/01/2022"
+  },
+  "2708": {
+    "flight": "CX216",
+    "departure": [
+      "Manchester"
+    ],
+    "seats": [
+      "46D"
+    ],
+    "date": "01/01/2022"
+  },
+  "2709": {
+    "flight": "CX216",
+    "departure": [
+      "Manchester"
+    ],
+    "seats": [
+      "17G"
+    ],
+    "date": "01/01/2022"
+  },
+  "2710": {
+    "flight": "ET608",
+    "departure": [
+      "Addis",
+      "Ababa"
+    ],
+    "seats": [
+      "17C"
+    ],
+    "date": "22/12/2021"
+  },
+  "2711": {
+    "flight": "AC015",
+    "departure": [
+      "Toronto"
+    ],
+    "seats": [
+      "18K"
+    ],
+    "date": "27/12/2021"
+  },
+  "2712": {
+    "flight": "AC007",
+    "departure": [
+      "Vancouver"
+    ],
+    "seats": [
+      "41J"
+    ],
+    "date": "29/12/2021"
+  },
+  "2713": {
+    "flight": "AC007",
+    "departure": [
+      "Vancouver"
+    ],
+    "seats": [
+      "32K"
+    ],
+    "date": "30/12/2021"
+  },
+  "2714": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "46J"
+    ],
+    "date": "30/12/2021"
+  },
+  "2715": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "49H"
+    ],
+    "date": "30/12/2021"
+  },
+  "2716": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "63J"
+    ],
+    "date": "30/12/2021"
+  },
+  "2717": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "44A"
+    ],
+    "date": "30/12/2021"
+  },
+  "2718": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "02K"
+    ],
+    "date": "30/12/2021"
+  },
+  "2719": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "48A"
+    ],
+    "date": "30/12/2021"
+  },
+  "2720": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "63A"
+    ],
+    "date": "30/12/2021"
+  },
+  "2721": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "44B"
+    ],
+    "date": "30/12/2021"
+  },
+  "2722": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "51H"
+    ],
+    "date": "30/12/2021"
+  },
+  "2723": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "42H"
+    ],
+    "date": "30/12/2021"
+  },
+  "2724": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "49J"
+    ],
+    "date": "30/12/2021"
+  },
+  "2725": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "48K"
+    ],
+    "date": "30/12/2021"
+  },
+  "2726": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "32A"
+    ],
+    "date": "30/12/2021"
+  },
+  "2727": {
+    "flight": "AC007",
+    "departure": [
+      "Vancouver"
+    ],
+    "seats": [
+      "2K"
+    ],
+    "date": "30/12/2021"
+  },
+  "2728": {
+    "flight": "CX104",
+    "departure": [
+      "Melbourne"
+    ],
+    "seats": [
+      "66G"
+    ],
+    "date": "30/12/2021"
+  },
+  "2729": {
+    "flight": "CX906",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "41K"
+    ],
+    "date": "01/01/2022"
+  },
+  "2730": {
+    "flight": "CX906",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "64D"
+    ],
+    "date": "01/01/2022"
+  },
+  "2731": {
+    "flight": "CX906",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "65A"
+    ],
+    "date": "01/01/2022"
+  },
+  "2732": {
+    "flight": "CX906",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "69D"
+    ],
+    "date": "01/01/2022"
+  },
+  "2733": {
+    "flight": "CX906",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "46A"
+    ],
+    "date": "01/01/2022"
+  },
+  "2734": {
+    "flight": "CX906",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "64K"
+    ],
+    "date": "01/01/2022"
+  },
+  "2735": {
+    "flight": "CX906",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "31A"
+    ],
+    "date": "01/01/2022"
+  },
+  "2736": {
+    "flight": "CX796",
+    "departure": [
+      "Jakarta"
+    ],
+    "seats": [
+      "70C"
+    ],
+    "date": "01/01/2022"
   }
 }

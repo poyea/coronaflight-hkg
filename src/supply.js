@@ -30,19 +30,14 @@ const outputWorker = () => {
           place.push(dataArr[i + 1]);
           ++i;
         }
-        while (dataArr[i] !== '*' && !dataArr[i + 1].match(dateRegex)) {
+        for (;dataArr[i] !== '*' && !dataArr[i + 1].match(dateRegex); ++i) {
           if (TagTransformer.isUnknownOrNA(dataArr[i + 1])) {
             seatsID.push(TagTransformer.customTagToDesc(dataArr[i + 1])); // Unknown || NA
-            ++i;
             break;
           } else if (TagTransformer.isCustomTag(dataArr[i + 1])) {
             seatsID.push(TagTransformer.customTagToDesc(dataArr[i + 1])); // Cabin Crew || Pilot || Pending || Infant
-            ++i;
-          } else if (dataArr[i + 1] === 'and') {
-            ++i;
-          } else {
+          } else if (dataArr[i + 1] !== 'and') {
             seatsID.push(dataArr[i + 1]);
-            ++i;
           }
         }
         let formattedDate = dataArr[++i].split('/');

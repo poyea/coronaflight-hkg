@@ -1,7 +1,12 @@
 {
   "0": {
     "flight": "CX838",
-    "path": "Hong Kong → Vancouver",
+    "path": [
+      "Hong",
+      "Kong",
+      "→",
+      "Vancouver"
+    ],
     "seats": [
       "15D",
       "15G"
@@ -10,7 +15,12 @@
   },
   "1": {
     "flight": "TK70",
-    "path": "Istanbul → Hong Kong",
+    "path": [
+      "Istanbul",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "14ABDEFGJK",
       "9J"
@@ -19,7 +29,11 @@
   },
   "2": {
     "flight": "TK695",
-    "path": "Cairo → Istanbul",
+    "path": [
+      "Cairo",
+      "→",
+      "Istanbul"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -27,7 +41,12 @@
   },
   "3": {
     "flight": "CX930",
-    "path": "Manila → Hong Kong",
+    "path": [
+      "Manila",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "48C"
     ],
@@ -35,7 +54,12 @@
   },
   "4": {
     "flight": "CX250",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -43,7 +67,11 @@
   },
   "5": {
     "flight": "HV5760",
-    "path": "Morocco → Amsterdam",
+    "path": [
+      "Morocco",
+      "→",
+      "Amsterdam"
+    ],
     "seats": [
       "29E",
       "22D"
@@ -52,7 +80,12 @@
   },
   "6": {
     "flight": "QR818",
-    "path": "Doha → Hong Kong",
+    "path": [
+      "Doha",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -60,7 +93,12 @@
   },
   "7": {
     "flight": "CX837",
-    "path": "Vancouver → Hong Kong",
+    "path": [
+      "Vancouver",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "40K"
     ],
@@ -68,7 +106,12 @@
   },
   "8": {
     "flight": "CX320",
-    "path": "Madrid → Hong Kong",
+    "path": [
+      "Madrid",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "65C"
     ],
@@ -76,7 +119,12 @@
   },
   "9": {
     "flight": "KA900",
-    "path": "Hong Kong → Beijing",
+    "path": [
+      "Hong",
+      "Kong",
+      "→",
+      "Beijing"
+    ],
     "seats": [
       "23C"
     ],
@@ -84,7 +132,12 @@
   },
   "10": {
     "flight": "CX857",
-    "path": "Seattle → Hong Kong",
+    "path": [
+      "Seattle",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "40C"
     ],
@@ -92,7 +145,12 @@
   },
   "11": {
     "flight": "KL887",
-    "path": "Amsterdam → Hong Kong",
+    "path": [
+      "Amsterdam",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "11K",
       "10G"
@@ -101,7 +159,12 @@
   },
   "12": {
     "flight": "NH811",
-    "path": "Tokyo → Hong Kong",
+    "path": [
+      "Tokyo",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "38C",
       "39C"
@@ -110,7 +173,12 @@
   },
   "13": {
     "flight": "CX811",
-    "path": "Boston → Hong Kong",
+    "path": [
+      "Boston",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "23K",
       "24K",
@@ -120,7 +188,12 @@
   },
   "14": {
     "flight": "EK380",
-    "path": "Dubai → Hong Kong",
+    "path": [
+      "Dubai",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -128,7 +201,12 @@
   },
   "15": {
     "flight": "CX759",
-    "path": "Hong Kong → Singapore",
+    "path": [
+      "Hong",
+      "Kong",
+      "→",
+      "Singapore"
+    ],
     "seats": [
       "47H"
     ],
@@ -136,7 +214,13 @@
   },
   "16": {
     "flight": "CX845",
-    "path": "New York → Hong Kong",
+    "path": [
+      "New",
+      "York",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "70C"
     ],
@@ -144,7 +228,12 @@
   },
   "17": {
     "flight": "CX260",
-    "path": "Paris → Hong Kong",
+    "path": [
+      "Paris",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "70E"
     ],
@@ -152,7 +241,12 @@
   },
   "18": {
     "flight": "CX171",
-    "path": "Hong Kong → Perth",
+    "path": [
+      "Hong",
+      "Kong",
+      "→",
+      "Perth"
+    ],
     "seats": [
       "20K",
       "21K"
@@ -161,7 +255,12 @@
   },
   "19": {
     "flight": "EK380",
-    "path": "Dubai → Hong Kong",
+    "path": [
+      "Dubai",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "6K"
     ],
@@ -169,7 +268,11 @@
   },
   "20": {
     "flight": "EK142",
-    "path": "Madrid → Dubai",
+    "path": [
+      "Madrid",
+      "→",
+      "Dubai"
+    ],
     "seats": [
       "6K"
     ],
@@ -177,7 +280,12 @@
   },
   "21": {
     "flight": "BA31",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "14E"
     ],
@@ -185,7 +293,11 @@
   },
   "22": {
     "flight": "JL2504",
-    "path": "Hokkaido → Osaka",
+    "path": [
+      "Hokkaido",
+      "→",
+      "Osaka"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -193,7 +305,12 @@
   },
   "23": {
     "flight": "CX561",
-    "path": "Osaka → Hong Kong",
+    "path": [
+      "Osaka",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "42A",
       "42B"
@@ -202,7 +319,12 @@
   },
   "24": {
     "flight": "CX320",
-    "path": "Madrid → Hong Kong",
+    "path": [
+      "Madrid",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "CC"
     ],
@@ -210,7 +332,12 @@
   },
   "25": {
     "flight": "LX138",
-    "path": "Zurich → Hong Kong",
+    "path": [
+      "Zurich",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "14A"
     ],
@@ -218,7 +345,12 @@
   },
   "26": {
     "flight": "QR818",
-    "path": "Dubai → Hong Kong",
+    "path": [
+      "Dubai",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -226,7 +358,12 @@
   },
   "27": {
     "flight": "TG638",
-    "path": "Bangkok → Hong Kong",
+    "path": [
+      "Bangkok",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "55C"
     ],
@@ -234,7 +371,12 @@
   },
   "28": {
     "flight": "CX776",
-    "path": "Jakarta → Hong Kong",
+    "path": [
+      "Jakarta",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "CC"
     ],
@@ -242,7 +384,12 @@
   },
   "29": {
     "flight": "HX782",
-    "path": "Manila → Hong Kong",
+    "path": [
+      "Manila",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "39C"
     ],
@@ -250,7 +397,13 @@
   },
   "30": {
     "flight": "CX845",
-    "path": "New York → Hong Kong",
+    "path": [
+      "New",
+      "York",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "45H"
     ],
@@ -258,7 +411,12 @@
   },
   "31": {
     "flight": "KA900",
-    "path": "Hong Kong → Beijing",
+    "path": [
+      "Hong",
+      "Kong",
+      "→",
+      "Beijing"
+    ],
     "seats": [
       "44K"
     ],
@@ -266,7 +424,11 @@
   },
   "32": {
     "flight": "LH119",
-    "path": "Munich → Frankfurt",
+    "path": [
+      "Munich",
+      "→",
+      "Frankfurt"
+    ],
     "seats": [
       "9C"
     ],
@@ -274,7 +436,12 @@
   },
   "33": {
     "flight": "CX238",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -282,7 +449,12 @@
   },
   "34": {
     "flight": "CX252",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "2A"
     ],
@@ -290,7 +462,12 @@
   },
   "35": {
     "flight": "LH7014",
-    "path": "Frankfurt → Hong Kong",
+    "path": [
+      "Frankfurt",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "41K"
     ],
@@ -298,7 +475,12 @@
   },
   "36": {
     "flight": "BR0891",
-    "path": "Taipei → Hong Kong",
+    "path": [
+      "Taipei",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "54K"
     ],
@@ -306,7 +488,12 @@
   },
   "37": {
     "flight": "LH796",
-    "path": "Frankfurt → Hong Kong",
+    "path": [
+      "Frankfurt",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "46G",
       "81K"
@@ -315,7 +502,12 @@
   },
   "38": {
     "flight": "CX260",
-    "path": "Paris → Hong Kong",
+    "path": [
+      "Paris",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "47A",
       "59D",
@@ -325,7 +517,11 @@
   },
   "39": {
     "flight": "BA0953",
-    "path": "Munich → London",
+    "path": [
+      "Munich",
+      "→",
+      "London"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -333,7 +529,13 @@
   },
   "40": {
     "flight": "CX698",
-    "path": "New Delhi → Hong Kong",
+    "path": [
+      "New",
+      "Delhi",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "20K"
     ],
@@ -341,7 +543,12 @@
   },
   "41": {
     "flight": "QR818",
-    "path": "Doha → Hong Kong",
+    "path": [
+      "Doha",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "23E"
     ],
@@ -349,7 +556,12 @@
   },
   "42": {
     "flight": "CX902",
-    "path": "Manila → Hong Kong",
+    "path": [
+      "Manila",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "20D"
     ],
@@ -357,7 +569,12 @@
   },
   "43": {
     "flight": "EK380",
-    "path": "Dubai → Hong Kong",
+    "path": [
+      "Dubai",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "31J"
     ],
@@ -365,7 +582,14 @@
   },
   "44": {
     "flight": "MS960",
-    "path": "Cairo → Bangkok → Hong Kong",
+    "path": [
+      "Cairo",
+      "→",
+      "Bangkok",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "44E"
     ],
@@ -373,7 +597,12 @@
   },
   "45": {
     "flight": "BA0027",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -381,7 +610,11 @@
   },
   "46": {
     "flight": "BA0733",
-    "path": "Geneva → London",
+    "path": [
+      "Geneva",
+      "→",
+      "London"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -389,7 +622,13 @@
   },
   "47": {
     "flight": "UO754",
-    "path": "Chiang Mai → Hong Kong",
+    "path": [
+      "Chiang",
+      "Mai",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "8B",
       "8E"
@@ -398,7 +637,12 @@
   },
   "48": {
     "flight": "QR818",
-    "path": "Doha → Hong Kong",
+    "path": [
+      "Doha",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "5K"
     ],
@@ -406,7 +650,12 @@
   },
   "49": {
     "flight": "CX382",
-    "path": "Zurich → Hong Kong",
+    "path": [
+      "Zurich",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "22A"
     ],
@@ -414,7 +663,12 @@
   },
   "50": {
     "flight": "KA5930",
-    "path": "Manila → Hong Kong",
+    "path": [
+      "Manila",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "61D"
     ],
@@ -422,7 +676,12 @@
   },
   "51": {
     "flight": "CX857",
-    "path": "Seattle → Hong Kong",
+    "path": [
+      "Seattle",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "43K"
     ],
@@ -430,7 +689,12 @@
   },
   "52": {
     "flight": "CX270",
-    "path": "Netherlands → Hong Kong",
+    "path": [
+      "Netherlands",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "31C"
     ],
@@ -438,7 +702,12 @@
   },
   "53": {
     "flight": "CX837",
-    "path": "Vancouver → Hong Kong",
+    "path": [
+      "Vancouver",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "15D",
       "15G"
@@ -447,7 +716,12 @@
   },
   "54": {
     "flight": "BA0033",
-    "path": "London → Kuala Lumpur",
+    "path": [
+      "London",
+      "→",
+      "Kuala",
+      "Lumpur"
+    ],
     "seats": [
       "31B",
       "37C"
@@ -456,7 +730,13 @@
   },
   "55": {
     "flight": "MH78",
-    "path": "Kuala Lumpur → Hong Kong",
+    "path": [
+      "Kuala",
+      "Lumpur",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "17C"
     ],
@@ -464,7 +744,11 @@
   },
   "56": {
     "flight": "QR160",
-    "path": "Copenhagen → Doha",
+    "path": [
+      "Copenhagen",
+      "→",
+      "Doha"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -472,7 +756,12 @@
   },
   "57": {
     "flight": "CX256",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "21A",
       "47B"
@@ -481,7 +770,12 @@
   },
   "58": {
     "flight": "TG600",
-    "path": "Bangkok → Hong Kong",
+    "path": [
+      "Bangkok",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -489,7 +783,12 @@
   },
   "59": {
     "flight": "BA0027",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "14A"
     ],
@@ -497,7 +796,13 @@
   },
   "60": {
     "flight": "CX881",
-    "path": "Los Angeles → Hong Kong",
+    "path": [
+      "Los",
+      "Angeles",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "40C"
     ],
@@ -505,7 +810,12 @@
   },
   "61": {
     "flight": "TG638",
-    "path": "Bangkok → Hong Kong",
+    "path": [
+      "Bangkok",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "43F"
     ],
@@ -513,7 +823,12 @@
   },
   "62": {
     "flight": "AC007",
-    "path": "Vancouver → Hong Kong",
+    "path": [
+      "Vancouver",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "36C"
     ],
@@ -521,7 +836,12 @@
   },
   "63": {
     "flight": "AC007",
-    "path": "Vancouver → Hong Kong",
+    "path": [
+      "Vancouver",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "36D"
     ],
@@ -529,7 +849,12 @@
   },
   "64": {
     "flight": "LH796",
-    "path": "Frankfurt → Hong Kong",
+    "path": [
+      "Frankfurt",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "46G"
     ],
@@ -537,7 +862,12 @@
   },
   "65": {
     "flight": "HX782",
-    "path": "Manila → Hong Kong",
+    "path": [
+      "Manila",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "42E"
     ],
@@ -545,7 +875,12 @@
   },
   "66": {
     "flight": "LH796",
-    "path": "Frankfurt → Hong Kong",
+    "path": [
+      "Frankfurt",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "8C"
     ],
@@ -553,7 +888,13 @@
   },
   "67": {
     "flight": "CX5734",
-    "path": "Kuala Lumpur → Hong Kong",
+    "path": [
+      "Kuala",
+      "Lumpur",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "23G"
     ],
@@ -561,7 +902,12 @@
   },
   "68": {
     "flight": "QR818",
-    "path": "Doha → Hong Kong",
+    "path": [
+      "Doha",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "24E"
     ],
@@ -569,7 +915,12 @@
   },
   "69": {
     "flight": "BA0027",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "42J",
       "57K"
@@ -578,7 +929,12 @@
   },
   "70": {
     "flight": "CX702",
-    "path": "Bangkok → Hong Kong",
+    "path": [
+      "Bangkok",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "44E"
     ],
@@ -586,7 +942,13 @@
   },
   "71": {
     "flight": "MH78",
-    "path": "Kuala Lumpur → Hong Kong",
+    "path": [
+      "Kuala",
+      "Lumpur",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "30F"
     ],
@@ -594,7 +956,12 @@
   },
   "72": {
     "flight": "LX138",
-    "path": "Zurich → Hong Kong",
+    "path": [
+      "Zurich",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "43A"
     ],
@@ -602,7 +969,13 @@
   },
   "73": {
     "flight": "CX845",
-    "path": "New York → Hong Kong",
+    "path": [
+      "New",
+      "York",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "59B"
     ],
@@ -610,7 +983,12 @@
   },
   "74": {
     "flight": "EK380",
-    "path": "Dubai → Hong Kong",
+    "path": [
+      "Dubai",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "50B"
     ],
@@ -618,7 +996,12 @@
   },
   "75": {
     "flight": "SQ860",
-    "path": "Singapore → Hong Kong",
+    "path": [
+      "Singapore",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "31F"
     ],
@@ -626,7 +1009,12 @@
   },
   "76": {
     "flight": "BA027",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "70K"
     ],
@@ -634,7 +1022,12 @@
   },
   "77": {
     "flight": "CX260",
-    "path": "France → Hong Kong",
+    "path": [
+      "France",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "71C"
     ],
@@ -642,7 +1035,12 @@
   },
   "78": {
     "flight": "CX922",
-    "path": "Cebu → Hong Kong",
+    "path": [
+      "Cebu",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "12K"
     ],
@@ -650,7 +1048,12 @@
   },
   "79": {
     "flight": "CX829",
-    "path": "Toronto → Hong Kong",
+    "path": [
+      "Toronto",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "65J"
     ],
@@ -658,7 +1061,12 @@
   },
   "80": {
     "flight": "CX658",
-    "path": "Singapore → Hong Kong",
+    "path": [
+      "Singapore",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "15D"
     ],
@@ -666,7 +1074,12 @@
   },
   "81": {
     "flight": "CX250",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "64J"
     ],
@@ -674,7 +1087,13 @@
   },
   "82": {
     "flight": "CX845",
-    "path": "New York → Hong Kong",
+    "path": [
+      "New",
+      "York",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "65D"
     ],
@@ -682,7 +1101,13 @@
   },
   "83": {
     "flight": "KA734",
-    "path": "Kuala Lumpur → Hong Kong",
+    "path": [
+      "Kuala",
+      "Lumpur",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "63K"
     ],
@@ -690,7 +1115,12 @@
   },
   "84": {
     "flight": "HX782",
-    "path": "Manila → Hong Kong",
+    "path": [
+      "Manila",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "41K"
     ],
@@ -698,7 +1128,12 @@
   },
   "85": {
     "flight": "SQ856",
-    "path": "Singapore → Hong Kong",
+    "path": [
+      "Singapore",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "40B"
     ],
@@ -706,7 +1141,12 @@
   },
   "86": {
     "flight": "JL29",
-    "path": "Tokyo → Hong Kong",
+    "path": [
+      "Tokyo",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "46K"
     ],
@@ -714,7 +1154,12 @@
   },
   "87": {
     "flight": "CX250",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -722,7 +1167,12 @@
   },
   "88": {
     "flight": "BI635",
-    "path": "Brunei → Hong Kong",
+    "path": [
+      "Brunei",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "35A",
       "35B"
@@ -731,7 +1181,12 @@
   },
   "89": {
     "flight": "SQ860",
-    "path": "Singapore → Hong Kong",
+    "path": [
+      "Singapore",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "46B"
     ],
@@ -739,7 +1194,13 @@
   },
   "90": {
     "flight": "CX881",
-    "path": "Los Angeles → Hong Kong",
+    "path": [
+      "Los",
+      "Angeles",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "25D",
       "33C"
@@ -748,7 +1209,12 @@
   },
   "91": {
     "flight": "CX829",
-    "path": "Toronto → Hong Kong",
+    "path": [
+      "Toronto",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "65H"
     ],
@@ -756,7 +1222,12 @@
   },
   "92": {
     "flight": "CX382",
-    "path": "Zurich → Hong Kong",
+    "path": [
+      "Zurich",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "76J"
     ],
@@ -764,7 +1235,12 @@
   },
   "93": {
     "flight": "QR818",
-    "path": "Doha → Hong Kong",
+    "path": [
+      "Doha",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "36C"
     ],
@@ -772,7 +1248,12 @@
   },
   "94": {
     "flight": "SQ856",
-    "path": "Singapore → Hong Kong",
+    "path": [
+      "Singapore",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "14F"
     ],
@@ -780,7 +1261,12 @@
   },
   "95": {
     "flight": "SQ856",
-    "path": "Singapore → Hong Kong",
+    "path": [
+      "Singapore",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "14F",
       "16F",
@@ -790,7 +1276,11 @@
   },
   "96": {
     "flight": "AC103",
-    "path": "Toronto → Vancouver",
+    "path": [
+      "Toronto",
+      "→",
+      "Vancouver"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -798,7 +1288,12 @@
   },
   "97": {
     "flight": "AC007",
-    "path": "Vancouver → Hong Kong",
+    "path": [
+      "Vancouver",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -806,7 +1301,12 @@
   },
   "98": {
     "flight": "AC007",
-    "path": "Vancouver → Hong Kong",
+    "path": [
+      "Vancouver",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "27A"
     ],
@@ -814,7 +1314,12 @@
   },
   "99": {
     "flight": "LH796",
-    "path": "Frankfurt → Hong Kong",
+    "path": [
+      "Frankfurt",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "29H"
     ],
@@ -822,7 +1327,12 @@
   },
   "100": {
     "flight": "CX382",
-    "path": "Zurich → Hong Kong",
+    "path": [
+      "Zurich",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "49A"
     ],
@@ -830,7 +1340,12 @@
   },
   "101": {
     "flight": "CX658",
-    "path": "Singapore → Hong Kong",
+    "path": [
+      "Singapore",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "45B"
     ],
@@ -838,7 +1353,12 @@
   },
   "102": {
     "flight": "HX782",
-    "path": "Manila → Hong Kong",
+    "path": [
+      "Manila",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "19C"
     ],
@@ -846,7 +1366,12 @@
   },
   "103": {
     "flight": "EK0380",
-    "path": "Dubai → Hong Kong",
+    "path": [
+      "Dubai",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "11D"
     ],
@@ -854,7 +1379,12 @@
   },
   "104": {
     "flight": "SQ856",
-    "path": "Singapore → Hong Kong",
+    "path": [
+      "Singapore",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "34C"
     ],
@@ -862,7 +1392,12 @@
   },
   "105": {
     "flight": "CX807",
-    "path": "Chicago → Hong Kong",
+    "path": [
+      "Chicago",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "42A"
     ],
@@ -870,7 +1405,12 @@
   },
   "106": {
     "flight": "CX718",
-    "path": "Jakarta → Hong Kong",
+    "path": [
+      "Jakarta",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "47F"
     ],
@@ -878,7 +1418,12 @@
   },
   "107": {
     "flight": "CX748",
-    "path": "Johannesburg → Hong Kong",
+    "path": [
+      "Johannesburg",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "68D"
     ],
@@ -886,7 +1431,12 @@
   },
   "108": {
     "flight": "CX320",
-    "path": "Madrid → Hong Kong",
+    "path": [
+      "Madrid",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "60J"
     ],
@@ -894,7 +1444,12 @@
   },
   "109": {
     "flight": "CX288",
-    "path": "Frankfurt → Hong Kong",
+    "path": [
+      "Frankfurt",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "2A"
     ],
@@ -902,7 +1457,12 @@
   },
   "110": {
     "flight": "BR891",
-    "path": "Taipei → Hong Kong",
+    "path": [
+      "Taipei",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -910,7 +1470,12 @@
   },
   "111": {
     "flight": "CX718",
-    "path": "Jakarta → Hong Kong",
+    "path": [
+      "Jakarta",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "60D"
     ],
@@ -918,7 +1483,12 @@
   },
   "112": {
     "flight": "CX250",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "62D"
     ],
@@ -926,7 +1496,12 @@
   },
   "113": {
     "flight": "EK380",
-    "path": "Dubai → Hong Kong",
+    "path": [
+      "Dubai",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "27F"
     ],
@@ -934,7 +1509,12 @@
   },
   "114": {
     "flight": "CX250",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "75D"
     ],
@@ -942,7 +1522,12 @@
   },
   "115": {
     "flight": "EK380",
-    "path": "Dubai → Hong Kong",
+    "path": [
+      "Dubai",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "6B",
       "31C"
@@ -951,7 +1536,12 @@
   },
   "116": {
     "flight": "CX930",
-    "path": "Manila → Hong Kong",
+    "path": [
+      "Manila",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "42D"
     ],
@@ -959,7 +1549,12 @@
   },
   "117": {
     "flight": "MU722",
-    "path": "Hong Kong → Shanghai",
+    "path": [
+      "Hong",
+      "Kong",
+      "→",
+      "Shanghai"
+    ],
     "seats": [
       "68J"
     ],
@@ -967,7 +1562,12 @@
   },
   "118": {
     "flight": "EK0380",
-    "path": "Dubai → Hong Kong",
+    "path": [
+      "Dubai",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "11E"
     ],
@@ -975,7 +1575,12 @@
   },
   "119": {
     "flight": "SQ856",
-    "path": "Singapore → Hong Kong",
+    "path": [
+      "Singapore",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "19D"
     ],
@@ -983,7 +1588,12 @@
   },
   "120": {
     "flight": "CX811",
-    "path": "Boston → Hong Kong",
+    "path": [
+      "Boston",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "CC"
     ],
@@ -991,7 +1601,12 @@
   },
   "121": {
     "flight": "CX320",
-    "path": "Madrid → Hong Kong",
+    "path": [
+      "Madrid",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "45E"
     ],
@@ -999,7 +1614,12 @@
   },
   "122": {
     "flight": "CX250",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "40C"
     ],
@@ -1007,7 +1627,12 @@
   },
   "123": {
     "flight": "BA027",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "27A"
     ],
@@ -1015,7 +1640,12 @@
   },
   "124": {
     "flight": "TG638",
-    "path": "Bangkok → Hong Kong",
+    "path": [
+      "Bangkok",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "63C"
     ],
@@ -1023,7 +1653,13 @@
   },
   "125": {
     "flight": "KA725",
-    "path": "Hong Kong → Kuala Lumpur",
+    "path": [
+      "Hong",
+      "Kong",
+      "→",
+      "Kuala",
+      "Lumpur"
+    ],
     "seats": [
       "48A"
     ],
@@ -1031,7 +1667,12 @@
   },
   "126": {
     "flight": "AC007",
-    "path": "Vancouver → Hong Kong",
+    "path": [
+      "Vancouver",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "27A",
       "unknown"
@@ -1040,7 +1681,12 @@
   },
   "127": {
     "flight": "BA027",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "72A"
     ],
@@ -1048,7 +1694,12 @@
   },
   "128": {
     "flight": "AC007",
-    "path": "Vancouver → Hong Kong",
+    "path": [
+      "Vancouver",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "28D"
     ],
@@ -1056,7 +1707,12 @@
   },
   "129": {
     "flight": "CX250",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "48K"
     ],
@@ -1064,7 +1720,12 @@
   },
   "130": {
     "flight": "BA027",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "80K"
     ],
@@ -1072,7 +1733,12 @@
   },
   "131": {
     "flight": "BR891",
-    "path": "Taiwan → Hong Kong",
+    "path": [
+      "Taiwan",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "46"
     ],
@@ -1080,7 +1746,13 @@
   },
   "132": {
     "flight": "CX845",
-    "path": "New York → Hong Kong",
+    "path": [
+      "New",
+      "York",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "44H"
     ],
@@ -1088,7 +1760,12 @@
   },
   "133": {
     "flight": "CX837",
-    "path": "Vancouver → Hong Kong",
+    "path": [
+      "Vancouver",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "42A"
     ],
@@ -1096,7 +1773,12 @@
   },
   "134": {
     "flight": "CX256",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "48H"
     ],
@@ -1104,7 +1786,12 @@
   },
   "135": {
     "flight": "CX252",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "67G"
     ],
@@ -1112,7 +1799,12 @@
   },
   "136": {
     "flight": "CX256",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "44E"
     ],
@@ -1120,7 +1812,12 @@
   },
   "137": {
     "flight": "CX930",
-    "path": "Manila → Hong Kong",
+    "path": [
+      "Manila",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "44G"
     ],
@@ -1128,7 +1825,12 @@
   },
   "138": {
     "flight": "CX216",
-    "path": "Manchester → Hong Kong",
+    "path": [
+      "Manchester",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "61B"
     ],
@@ -1136,7 +1838,12 @@
   },
   "139": {
     "flight": "LH796",
-    "path": "Frankfurt → Hong Kong",
+    "path": [
+      "Frankfurt",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "4G"
     ],
@@ -1144,7 +1851,12 @@
   },
   "140": {
     "flight": "LH796",
-    "path": "Frankfurt → Hong Kong",
+    "path": [
+      "Frankfurt",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "33H"
     ],
@@ -1152,7 +1864,13 @@
   },
   "141": {
     "flight": "CX845",
-    "path": "New York → Hong Kong",
+    "path": [
+      "New",
+      "York",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "45E"
     ],
@@ -1160,7 +1878,13 @@
   },
   "142": {
     "flight": "CX845",
-    "path": "New York → Hong Kong",
+    "path": [
+      "New",
+      "York",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "45F"
     ],
@@ -1168,7 +1892,12 @@
   },
   "143": {
     "flight": "LX138",
-    "path": "Zurich → Hong Kong",
+    "path": [
+      "Zurich",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -1176,7 +1905,12 @@
   },
   "144": {
     "flight": "CX256",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "42E"
     ],
@@ -1184,7 +1918,12 @@
   },
   "145": {
     "flight": "EK380",
-    "path": "Dubai → Hong Kong",
+    "path": [
+      "Dubai",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "50B",
       "9K"
@@ -1193,7 +1932,12 @@
   },
   "146": {
     "flight": "TG638",
-    "path": "Bangkok → Hong Kong",
+    "path": [
+      "Bangkok",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "45D"
     ],
@@ -1201,7 +1945,12 @@
   },
   "147": {
     "flight": "CX702",
-    "path": "Bangkok → Hong Kong",
+    "path": [
+      "Bangkok",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "18C"
     ],
@@ -1209,7 +1958,12 @@
   },
   "148": {
     "flight": "AY099",
-    "path": "Helsinki → Hong Kong",
+    "path": [
+      "Helsinki",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "2H"
     ],
@@ -1217,7 +1971,12 @@
   },
   "149": {
     "flight": "AC007",
-    "path": "Vancouver → Hong Kong",
+    "path": [
+      "Vancouver",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "27C"
     ],
@@ -1225,7 +1984,12 @@
   },
   "150": {
     "flight": "SQ860",
-    "path": "Singapore → Hong Kong",
+    "path": [
+      "Singapore",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "46A"
     ],
@@ -1233,7 +1997,12 @@
   },
   "151": {
     "flight": "TG638",
-    "path": "Bangkok → Hong Kong",
+    "path": [
+      "Bangkok",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "35C"
     ],
@@ -1241,7 +2010,12 @@
   },
   "152": {
     "flight": "BA027",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "64B"
     ],
@@ -1249,7 +2023,12 @@
   },
   "153": {
     "flight": "CX837",
-    "path": "Vancouver → Hong Kong",
+    "path": [
+      "Vancouver",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "45B"
     ],
@@ -1257,7 +2036,12 @@
   },
   "154": {
     "flight": "CX250",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "75A"
     ],
@@ -1265,7 +2049,12 @@
   },
   "155": {
     "flight": "CX250",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "30C"
     ],
@@ -1273,7 +2062,12 @@
   },
   "156": {
     "flight": "LX138",
-    "path": "Zurich → Hong Kong",
+    "path": [
+      "Zurich",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "9A"
     ],
@@ -1281,7 +2075,12 @@
   },
   "157": {
     "flight": "CX696",
-    "path": "Mumbai → Hong Kong",
+    "path": [
+      "Mumbai",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "20K"
     ],
@@ -1289,7 +2088,12 @@
   },
   "158": {
     "flight": "CX658",
-    "path": "Singapore → Hong Kong",
+    "path": [
+      "Singapore",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "71E"
     ],
@@ -1297,7 +2101,12 @@
   },
   "159": {
     "flight": "EK0380",
-    "path": "Dubai → Hong Kong",
+    "path": [
+      "Dubai",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "11D"
     ],
@@ -1305,7 +2114,12 @@
   },
   "160": {
     "flight": "SQ856",
-    "path": "Singapore → Hong Kong",
+    "path": [
+      "Singapore",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "34C"
     ],
@@ -1313,7 +2127,12 @@
   },
   "161": {
     "flight": "CX658",
-    "path": "Singapore → Hong Kong",
+    "path": [
+      "Singapore",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "40D"
     ],
@@ -1321,7 +2140,12 @@
   },
   "162": {
     "flight": "CX254",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "70C"
     ],
@@ -1329,7 +2153,12 @@
   },
   "163": {
     "flight": "CX238",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "68J"
     ],
@@ -1337,7 +2166,12 @@
   },
   "164": {
     "flight": "QR818",
-    "path": "Doha → Hong Kong",
+    "path": [
+      "Doha",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "21F"
     ],
@@ -1345,7 +2179,12 @@
   },
   "165": {
     "flight": "QR818",
-    "path": "Doha → Hong Kong",
+    "path": [
+      "Doha",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "21E"
     ],
@@ -1353,7 +2192,12 @@
   },
   "166": {
     "flight": "CX256",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "31D"
     ],
@@ -1361,7 +2205,12 @@
   },
   "167": {
     "flight": "CX256",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "63K"
     ],
@@ -1369,7 +2218,12 @@
   },
   "168": {
     "flight": "TK0070",
-    "path": "Turkey → Hong Kong",
+    "path": [
+      "Turkey",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -1377,7 +2231,12 @@
   },
   "169": {
     "flight": "AY099",
-    "path": "Helsinki → Hong Kong",
+    "path": [
+      "Helsinki",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "A3"
     ],
@@ -1385,7 +2244,12 @@
   },
   "170": {
     "flight": "CX254",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -1393,7 +2257,12 @@
   },
   "171": {
     "flight": "CX865",
-    "path": "Vancouver → Hong Kong",
+    "path": [
+      "Vancouver",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "65K"
     ],
@@ -1401,7 +2270,12 @@
   },
   "172": {
     "flight": "VS206",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "3K"
     ],
@@ -1409,7 +2283,12 @@
   },
   "173": {
     "flight": "QR818",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "3A"
     ],
@@ -1417,7 +2296,12 @@
   },
   "174": {
     "flight": "BA027",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "13G"
     ],
@@ -1425,7 +2309,13 @@
   },
   "175": {
     "flight": "CX845",
-    "path": "New York → Hong Kong",
+    "path": [
+      "New",
+      "York",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "33D"
     ],
@@ -1433,7 +2323,12 @@
   },
   "176": {
     "flight": "TG638",
-    "path": "Bangkok → Hong Kong",
+    "path": [
+      "Bangkok",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "35K"
     ],
@@ -1441,7 +2336,12 @@
   },
   "177": {
     "flight": "BR869",
-    "path": "Taipei → Hong Kong",
+    "path": [
+      "Taipei",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "47D"
     ],
@@ -1449,7 +2349,12 @@
   },
   "178": {
     "flight": "CX746",
-    "path": "Dubai → Hong Kong",
+    "path": [
+      "Dubai",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "59A"
     ],
@@ -1457,7 +2362,12 @@
   },
   "179": {
     "flight": "CX930",
-    "path": "Manila → Hong Kong",
+    "path": [
+      "Manila",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "Unknown"
     ],
@@ -1465,7 +2375,13 @@
   },
   "180": {
     "flight": "CX845",
-    "path": "New York → Hong Kong",
+    "path": [
+      "New",
+      "York",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "45E"
     ],
@@ -1473,7 +2389,13 @@
   },
   "181": {
     "flight": "CX845",
-    "path": "New York → Hong Kong",
+    "path": [
+      "New",
+      "York",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "45F"
     ],
@@ -1481,7 +2403,12 @@
   },
   "182": {
     "flight": "CX250",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "74E"
     ],
@@ -1489,7 +2416,12 @@
   },
   "183": {
     "flight": "CX250",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "17D"
     ],
@@ -1497,7 +2429,12 @@
   },
   "184": {
     "flight": "CX252",
-    "path": "London → Hong Kong",
+    "path": [
+      "London",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "43J"
     ],
@@ -1505,7 +2442,12 @@
   },
   "185": {
     "flight": "CX216",
-    "path": "Manchester → Hong Kong",
+    "path": [
+      "Manchester",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "61H"
     ],
@@ -1513,7 +2455,12 @@
   },
   "186": {
     "flight": "CX288",
-    "path": "Frankfurt → Hong Kong",
+    "path": [
+      "Frankfurt",
+      "→",
+      "Hong",
+      "Kong"
+    ],
     "seats": [
       "32K"
     ],

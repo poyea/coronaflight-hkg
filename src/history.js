@@ -1,6 +1,6 @@
-const readInFile = require('../utils/readf');
 const checkArr = require('../utils/checkarr');
-const writeToFile = require('../utils/writef');
+const readInFile = require('../utils/readFile');
+const writeToFile = require('../utils/writeFile');
 
 /* ===== ===== History Management ===== ===== */
 const history = (dir) => {

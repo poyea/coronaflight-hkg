@@ -1,7 +1,7 @@
 const fs = require('fs');
 const moment = require('moment');
 const history = require('./history');
-const writeToFile = require('../utils/writef');
+const writeToFile = require('../utils/writeFile');
 const TagTransformer = require('./transform').TagTransformer;
 
 const writeDir = './out/json/';

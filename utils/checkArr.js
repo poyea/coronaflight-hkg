@@ -1,4 +1,4 @@
-function checkArr (a1, a2) {
+const checkArr = (a1, a2) => {
   if (a1 === a2) return true;
   if (a1 == null || a2 == null) return false;
   if (a1.length !== a2.length) return false;

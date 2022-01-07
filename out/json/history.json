@@ -28339,5 +28339,262 @@
       "16E"
     ],
     "date": "04/01/2022"
+  },
+  "2828": {
+    "flight": "PR300",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "70H"
+    ],
+    "date": "30/12/2021"
+  },
+  "2829": {
+    "flight": "CX906",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "14D"
+    ],
+    "date": "01/01/2022"
+  },
+  "2830": {
+    "flight": "CX906",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "60D"
+    ],
+    "date": "01/01/2022"
+  },
+  "2831": {
+    "flight": "CX906",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "60A"
+    ],
+    "date": "01/01/2022"
+  },
+  "2832": {
+    "flight": "CX906",
+    "departure": [
+      "Manila"
+    ],
+    "seats": [
+      "63C"
+    ],
+    "date": "01/01/2022"
+  },
+  "2833": {
+    "flight": "LH796",
+    "departure": [
+      "Frankfurt"
+    ],
+    "seats": [
+      "29G"
+    ],
+    "date": "03/01/2022"
+  },
+  "2834": {
+    "flight": "LH796",
+    "departure": [
+      "Frankfurt"
+    ],
+    "seats": [
+      "25H"
+    ],
+    "date": "03/01/2022"
+  },
+  "2835": {
+    "flight": "LH796",
+    "departure": [
+      "Frankfurt"
+    ],
+    "seats": [
+      "12C"
+    ],
+    "date": "03/01/2022"
+  },
+  "2836": {
+    "flight": "LH796",
+    "departure": [
+      "Frankfurt"
+    ],
+    "seats": [
+      "16E"
+    ],
+    "date": "03/01/2022"
+  },
+  "2837": {
+    "flight": "CX845",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "72B"
+    ],
+    "date": "04/01/2022"
+  },
+  "2838": {
+    "flight": "CX845",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "31C"
+    ],
+    "date": "04/01/2022"
+  },
+  "2839": {
+    "flight": "CX845",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "47H"
+    ],
+    "date": "04/01/2022"
+  },
+  "2840": {
+    "flight": "CX922",
+    "departure": [
+      "Cebu"
+    ],
+    "seats": [
+      "69A"
+    ],
+    "date": "04/01/2022"
+  },
+  "2841": {
+    "flight": "CX845",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "32H"
+    ],
+    "date": "04/01/2022"
+  },
+  "2842": {
+    "flight": "CX845",
+    "departure": [
+      "New",
+      "York"
+    ],
+    "seats": [
+      "47B"
+    ],
+    "date": "04/01/2022"
+  },
+  "2843": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "7E"
+    ],
+    "date": "05/01/2022"
+  },
+  "2844": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "2A"
+    ],
+    "date": "05/01/2022"
+  },
+  "2845": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "33A"
+    ],
+    "date": "05/01/2022"
+  },
+  "2846": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "41D"
+    ],
+    "date": "05/01/2022"
+  },
+  "2847": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "28D"
+    ],
+    "date": "05/01/2022"
+  },
+  "2848": {
+    "flight": "SQ007",
+    "departure": [
+      "San",
+      "Francisco"
+    ],
+    "seats": [
+      "51K"
+    ],
+    "date": "05/01/2022"
+  },
+  "2849": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "23A"
+    ],
+    "date": "05/01/2022"
+  },
+  "2850": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "32B"
+    ],
+    "date": "05/01/2022"
+  },
+  "2851": {
+    "flight": "QR818",
+    "departure": [
+      "Doha"
+    ],
+    "seats": [
+      "24E"
+    ],
+    "date": "05/01/2022"
+  },
+  "2852": {
+    "flight": "ET608",
+    "departure": [
+      "Addis",
+      "Ababa"
+    ],
+    "seats": [
+      "17L"
+    ],
+    "date": "05/01/2022"
   }
 }

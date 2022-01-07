@@ -1,4 +1,4 @@
-const checkArr = require('../utils/checkarr');
+const checkArr = require('../utils/checkArr');
 const readInFile = require('../utils/readFile');
 const writeToFile = require('../utils/writeFile');
 

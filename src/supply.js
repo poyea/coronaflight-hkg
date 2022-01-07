@@ -56,7 +56,7 @@ const outputWorker = () => {
         break;
       }
     }
-    // console.log(arrayToWrite)
+
     console.log(`Number of entries: ${retFlightarr.length}`);
     const $ = moment().format('HHmm-DD-MM-YYYY');
     const writingData = JSON.stringify({ ...arrayToWrite }, null, 2);

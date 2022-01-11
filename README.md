@@ -1,8 +1,14 @@
-# <p align="center">coronaflight-hkg
+<img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/24757020/148883105-c4e44c23-fde1-40c4-8fcc-89b218004939.png" alt="Mask">
 
-[![Node.js crawl trial](https://github.com/poyea/coronaflight-hkg/actions/workflows/nodejs.yml/badge.svg)](https://github.com/poyea/coronaflight-hkg/actions/workflows/nodejs.yml) [![ESLint](https://github.com/poyea/coronaflight-hkg/actions/workflows/eslint.yml/badge.svg)](https://github.com/poyea/coronaflight-hkg/actions/workflows/eslint.yml)
+# coronaflight-hkg  [![Node.js crawl trial](https://github.com/poyea/coronaflight-hkg/actions/workflows/nodejs.yml/badge.svg)](https://github.com/poyea/coronaflight-hkg/actions/workflows/nodejs.yml) [![ESLint](https://github.com/poyea/coronaflight-hkg/actions/workflows/eslint.yml/badge.svg)](https://github.com/poyea/coronaflight-hkg/actions/workflows/eslint.yml)
 
-  * [Introduction](#introduction)
+`coronaflight-hkg` is the backend for [`coronaflight.json`](https://gist.github.com/poyea/8ce06b31763379e2084cb2022b88b79a/raw), i.e. [gist 8ce06b31763379e2084cb2022b88b79a](https://gist.github.com/poyea/8ce06b31763379e2084cb2022b88b79a), **that is updated continuously**. This goes to Centre for Health Protection in Hong Kong and transforms the "dangerous" flights to JSON for future analysis/reporting. [A sister gist that contains unique history](https://gist.github.com/poyea/fa1f2988c4f424d3e42b9284e751663f), [`coronaflight-history.json`](https://gist.github.com/poyea/fa1f2988c4f424d3e42b9284e751663f/raw), for the data is also maintained, i.e. [gist fa1f2988c4f424d3e42b9284e751663f](https://gist.github.com/poyea/fa1f2988c4f424d3e42b9284e751663f). From the official description, the official piece of data is visible for only 14 days.
+
+<hr>
+
+## Table of Contents
+
+  * [Setup](#setup)
   * [Cleaning raw](#cleaning-raw)
   * [Document format](#document-format)
   * [If you like this](#if-you-like-this-please)
@@ -11,9 +17,7 @@
   * [License](#license)
   
 
-## Introduction
-This is the backend for [`coronaflight.json`](https://gist.github.com/poyea/8ce06b31763379e2084cb2022b88b79a/raw), i.e. [https://gist.github.com/poyea/8ce06b31763379e2084cb2022b88b79a](https://gist.github.com/poyea/8ce06b31763379e2084cb2022b88b79a), **that is updated continuously**. This goes to Centre for Health Protection in Hong Kong and transforms the "dangerous" flights to JSON for future analysis/reporting. [A sister gist that contains unique history](https://gist.github.com/poyea/fa1f2988c4f424d3e42b9284e751663f), [`coronaflight-history.json`](https://gist.github.com/poyea/fa1f2988c4f424d3e42b9284e751663f/raw), for the data is also maintained, i.e. [https://gist.github.com/poyea/fa1f2988c4f424d3e42b9284e751663f](https://gist.github.com/poyea/fa1f2988c4f424d3e42b9284e751663f). From the official description, the official piece of data is visible for only 14 days.
-
+## Setup
 To run locally,
 
 ```

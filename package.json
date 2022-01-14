@@ -20,7 +20,7 @@
   "author": "poyea",
   "license": "ISC",
   "dependencies": {
-    "crawler-request": "^1.2.2",
+    "axios": "^0.24.0",
     "diff": "^4.0.2",
     "minimist": ">=0.2.1",
     "moment": "^2.24.0",

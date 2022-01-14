@@ -4,8 +4,8 @@ const history = require('./history');
 const writeToFile = require('../utils/writeFile');
 const TagTransformer = require('./transform').TagTransformer;
 
-const writeDir = './out/json/';
-const readDir = './out/dump/';
+const WRITE_DIR = './out/json/';
+const READ_DIR = './out/dump/';
 
 const flightCodeRegex = /(\b([A-Z]\d|[A-Z]{2,3}|\d[A-Z])\d{2,4}\b)/g;
 const dateRegex = /^\d{1,2}[./]\d{1,2}[./]\d{4}$/;
@@ -13,7 +13,7 @@ const seatsRegex = /\b([A-Z]\d{1,3}|\d{1,3}[A-Z]|Row.*|Row)\b/;
 const cityRegex = /\b[a-zA-z\s,]+\b/;
 
 const outputWorker = () => {
-  fs.readFile(`${readDir}latest.txt`, 'utf8', (err, data) => {
+  fs.readFile(`${READ_DIR}latest.txt`, 'utf8', (err, data) => {
     if (err) throw err;
     const retFlightarr = data.match(flightCodeRegex);
     let flightArrayIndex = 0;
@@ -61,17 +61,17 @@ const outputWorker = () => {
     const $ = moment().format('HHmm-DD-MM-YYYY');
     const writingData = JSON.stringify({ ...arrayToWrite }, null, 2);
     writeToFile(
-      `${writeDir}${$}.json`,
+      `${WRITE_DIR}${$}.json`,
       writingData,
       `The file has been saved! - ${$}`
     );
     writeToFile(
-      `${writeDir}latest.json`,
+      `${WRITE_DIR}latest.json`,
       writingData,
       `The file has been saved! - ${$} - lastest`
     );
     /* ===== ===== History Management ===== ===== */
-    history(writeDir);
+    history(WRITE_DIR);
   });
 };
 

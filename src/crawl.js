@@ -23,7 +23,6 @@ const dumper = (supplier) => {
             const ret = {
               url: CHP_URL,
               type: 'pdf',
-              html: undefined,
               text: undefined,
               status: undefined,
               error: undefined
@@ -36,7 +35,7 @@ const dumper = (supplier) => {
                 return ret;
               })
               .catch((err) => {
-                ret.status = -1;
+                ret.status = 503;
                 ret.error = err.toString();
                 return ret;
               });

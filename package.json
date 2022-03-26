@@ -22,7 +22,7 @@
   "dependencies": {
     "axios": "^0.24.0",
     "diff": "^4.0.2",
-    "minimist": ">=0.2.1",
+    "minimist": ">=1.2.6",
     "moment": "^2.24.0",
     "pdf-parse": "^1.1.1"
   },

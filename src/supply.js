@@ -9,7 +9,7 @@ const READ_DIR = './out/dump/';
 
 const flightCodeRegex = /(\b([A-Z]\d|[A-Z]{2,3}|\d[A-Z])\d{2,4}\b)/g;
 const dateRegex = /^\d{1,2}[./]\d{1,2}[./]\d{4}$/;
-const seatsRegex = /\b([A-Z]\d{1,3}|\d{1,3}[A-Z]|Row.*|Row)\b/;
+const seatsRegex = /\b([A-Z]\d{1,3}|\d{1,3}[A-Z]?|Row.*|Row)\b/;
 const cityRegex = /\b[a-zA-z\s,]+\b/;
 
 const outputWorker = () => {

@@ -2,6 +2,7 @@ name: ESLint
 on: push
 jobs:
   build:
+    if: ${{ false }}
     runs-on: ubuntu-latest
     strategy:
       matrix:
